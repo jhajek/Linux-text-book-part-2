@@ -193,6 +193,14 @@ You =)
 
 ### 0.5 - Acknowledgements
 
+### 0.6 - Linux/Unix History and Philosophy (pulled from other book)
+
+### 0.7 - Environment setup
+
+### 0.8 -Resources for you beyond this book  
+Blogs and Podcasts Links go here
+
+
 - - - 
 
 ## Chapter 01 - Measure and Troubleshoot Resource Usage
@@ -274,6 +282,7 @@ You =)
 ## Chapter 15 - System Maintainance Tools
 ![Understanding the Technology and Philosophy of Unix/Linux](images/tar.png "Understanding the Technology and Philosophy of Unix/Linux")
 > quote goes here
+
 ### Tools
 #### tar
 #### make
