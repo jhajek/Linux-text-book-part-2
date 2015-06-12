@@ -158,7 +158,7 @@ Appendix B: Notes
 - - -
 ## Chapter 00 - Introduction
 
-### 0.1 Objectives of this book/project
+### 0.1 - Objectives of this book/project
 
 #### Course Objectives:
   * Administer a small to medium-sized site 
@@ -170,20 +170,20 @@ Appendix B: Notes
   * Advise management on automation and purchases
   * Guidelines from [LPI II](https://www.lpi.org/certification/get-certified-lpi/lpic-2-linux-network-professional/) 
 
-### 0.2 Who should read it?
+### 0.2 - Who should read it?
 
 You =)
 
-### 0.3 Who are we?
+### 0.3 - Who are we?
 
-### 0.4How this book/project works 
+### 0.4 - How this book/project works 
 
-### 0.4 Acknowledgements
+### 0.5 - Acknowledgements
 
 - - - 
 
 ## Chapter 01 - Measure and Troubleshoot Resource Usage
-###Measure CPU usage
+### 1.1 - Measure CPU usage
 ###Measure memory usage
 ###Measure disk I/O
 ###Measure network I/O
