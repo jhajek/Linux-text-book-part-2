@@ -15,6 +15,8 @@
  * Acknowledgements
  * Linux/Unix History and Philosophy (pulled from other book)
  * Environment setup
+ * Resources for you beyond this book
+    -  Blogs and Podcasts
  
 1.	Capacity Planning
   * Tools of Troubleshooting
