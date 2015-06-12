@@ -50,61 +50,61 @@
       -  Module configuration files
       -  Awareness of Dracut
   *	 Kernel runtime management and troubleshooting	
-    *  Use command-line utilities to get information about the currently running kernel and kernel modules
-    *  Manually load and unload kernel modules
-    *  Determine when modules can be unloaded
-    *  Determine what parameters a module accepts
-    *  Configure the system to load modules by names other than their file name.
-    *  /proc filesystem
-    *  Content of /, /boot/ , and /lib/modules/
-    *  Tools and utilities to analyze information about the available hardware
-         -	udev rules
+    -  Use command-line utilities to get information about the currently running kernel and kernel modules
+    -  Manually load and unload kernel modules
+    -  Determine when modules can be unloaded
+    -  Determine what parameters a module accepts
+    -  Configure the system to load modules by names other than their file name.
+    -  /proc filesystem
+    - Content of /, /boot/ , and /lib/modules/
+    -  Tools and utilities to analyze information about the available hardware
+         *	udev rules
 
 3.  System Start Up and Recovery	
   * SysVInit 
-    *  Customizing SysV-init system startup
-    *  Linux Standard Base Specification (LSB)
+    -  Customizing SysV-init system startup
+    -  Linux Standard Base Specification (LSB)
   * Introduction to Systemd start up  
-    * Details about systemd
+    - Details about systemd
   * System Recovery
-    *  GRUB version 2 and Legacy
-    *  Grub shell
-    *  Boot loader start and hand off to kernel
-    *  Kernel loading
-    *  Hardware initialization and setup
-    *  Daemon/service initialization and setup
-    *  Know the different boot loader install locations on a hard disk or removable device  *  
-    *  Overwriting standard boot loader options and using boot loader shells
-    *  Awareness of UEFI
+    -  GRUB version 2 and Legacy
+    -  Grub shell
+    -  Boot loader start and hand off to kernel
+    -  Kernel loading
+    -  Hardware initialization and setup
+    -  Daemon/service initialization and setup
+    -  Know the different boot loader install locations on a hard disk or removable device  *  
+    -  Overwriting standard boot loader options and using boot loader shells
+    -  Awareness of UEFI
   * Alternate bootloaders
-    *  PXE
-    *  Grub and Grub2
+    -  PXE
+    -  Grub and Grub2
 
 4.	Filesystem and Devices
   * History of Linux filesystems
-    *  The concept of the fstab configuration
-    *  Tools and utilities for handling SWAP partitions and files
-    *  Use of UUIDs
+    -  The concept of the fstab configuration
+    -  Tools and utilities for handling SWAP partitions and files
+    -  Use of UUIDs
   *	Maintaining a Linux filesystem
-    *  Tools and utilities to manipulate and ext2, ext3 and ext4
-    *  Tools and utilities to manipulate xfs
-    *  Awareness of Btrfs and ZFS and FUSE
+    -  Tools and utilities to manipulate and ext2, ext3 and ext4
+    -  Tools and utilities to manipulate xfs
+    -  Awareness of Btrfs and ZFS and FUSE
 
 5.	Advanced Storage Device Administration
-  *  Software raid configuration files and utilities
-    *  mdadm.conf
-    *  mdadm
-    *  /proc/mdstat
+   *  Software raid configuration files and utilities
+    - mdadm.conf
+    -  mdadm
+    -  /proc/mdstat
  * Adjusting Storage Device Access
-    *  Tools and utilities to configure DMA for IDE devices including ATAPI and SATA
-    *  Tools and utilities to manipulate or analyze system resources (e.g. interrupts)
-    *  Awareness of sdparm command and its uses
-    *  Tools and utilities for iSCSI
+    -  Tools and utilities to configure DMA for IDE devices including ATAPI and SATA
+    -  Tools and utilities to manipulate or analyze system resources (e.g. interrupts)
+    -  Awareness of sdparm command and its uses
+    -  Tools and utilities for iSCSI
  * Logical Volume Manager
-    *  LVM suite
-    *  Resizing, renaming, creating, and removing logical drives
-    *  Snapshots
-    *  Active volume groups
+    -  LVM suite
+    -  Resizing, renaming, creating, and removing logical drives
+    -  Snapshots
+    -  Active volume groups
 
 6. Network Configuration
   *  Configure and manipulate Ethernet settings
