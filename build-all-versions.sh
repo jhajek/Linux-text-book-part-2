@@ -5,6 +5,9 @@ set -e
 
 sudo apt-get -y install pandoc pandoc-citeproc texlive
 
+#delete previous build artifacts but not the README.md
+rm -rf ./output/*.epub ./output/*.html ./output/*.pdf ./output/*.docx
+
 #[Getting-Started](http://pandoc.org/getting-started.html)
 
 #If you want to create a PDF, you’ll need to have LaTeX installed. (See MacTeX on OS X, MiKTeX on Windows, or install the texlive package in linux.) Then do
