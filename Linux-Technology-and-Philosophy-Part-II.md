@@ -150,7 +150,7 @@
 21.	System Security
 
 - - -
-# Chapter 0 Introduction
+# Chapter 0 - Introduction
 
 ## 0.1 Objectives of this book/project
 
@@ -162,13 +162,16 @@
   * Internet Server (web server and reverse proxy, FTP server)
   * Supervise assistants
   * Advise management on automation and purchases
-  *  Guidelines from [LPI II](https://www.lpi.org/certification/get-certified-lpi/lpic-2-linux-network-professional/) 
+  * Guidelines from [LPI II](https://www.lpi.org/certification/get-certified-lpi/lpic-2-linux-network-professional/) 
 
 ## 0.2 Who should read it?
+
+You =)
 
 ## 0.3 Who are we?
 
 ## 0.4How this book/project works 
+
 ## 0.4 Acknowledgements
 
 - - - 
