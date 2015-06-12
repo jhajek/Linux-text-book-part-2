@@ -1,7 +1,7 @@
 # Intermediate Linux - Taming the Penguin
 ## Understanding the Technology and Philosophy of Unix/Linux Part II
 #### (version 0.0.1)
-![Understanding the Technology and Philosophy of Unix/Linux](images/cautionary.png "Understanding the Technology and Philosophy of Unix/Linux")
+![Understanding the Technology and Philosophy of Unix/Linux](images/success.png "Understanding the Technology and Philosophy of Unix/Linux")
 
 ### LPIC-2 based plus the deltas to the revised material
 
