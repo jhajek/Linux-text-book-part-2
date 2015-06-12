@@ -7,6 +7,13 @@
 
 ## Table of Contents
 
+0. Introduction and Notes
+ * Objectives of this book/project
+ * Who should read it?
+ * Who are we?
+ * How this book/project works 
+ * Acknowledgements
+  
 1.	Measure and Troubleshoot Resource Usage
   *  Description: Candidates should be able to measure hardware resource and network bandwidth, identify and troubleshoot resource problems.
   *  Measure CPU usage
@@ -142,6 +149,7 @@
 
 21.	System Security
 
+- - -
 Course Objectives:
 * Administer a small to medium-sized site
 * Plan, implement, maintain, keep consistent, secure, and troubleshoot a small mixed (MS, Linux) network, including a: 
