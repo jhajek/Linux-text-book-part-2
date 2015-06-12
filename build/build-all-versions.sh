@@ -1,4 +1,4 @@
-#!/bin/nash
+#!/bin/bash
 
 set -x
 set -e
