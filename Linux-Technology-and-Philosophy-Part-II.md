@@ -157,6 +157,8 @@ Appendix B: Notes
 
 - - -
 ## Chapter 00 - Introduction
+![Understanding the Technology and Philosophy of Unix/Linux](images/cautionary.png "Understanding the Technology and Philosophy of Unix/Linux")
+> Astute quote goes here
 
 ### 0.1 - Objectives of this book/project
 
@@ -183,14 +185,17 @@ You =)
 - - - 
 
 ## Chapter 01 - Measure and Troubleshoot Resource Usage
+![Understanding the Technology and Philosophy of Unix/Linux](images/cautionary.png "Understanding the Technology and Philosophy of Unix/Linux")
+> Astute quote goes here
+
 ### 1.1 - Measure CPU usage
-###Measure memory usage
-###Measure disk I/O
-###Measure network I/O
-###Measure firewalling and routing throughput
-###Map client bandwidth usage
-###Match / correlate system symptoms with likely problems
-###Estimate throughput and identify bottlenecks in a system including networking
+### 1.2 - Measure memory usage
+### 1.3 - Measure disk I/O
+### 1.4 - Measure network I/O
+### 1.5 - Measure firewalling and routing throughput
+### 1.6 - Map client bandwidth usage
+### 1.7 - Match / correlate system symptoms with likely problems
+### 1.8 - Estimate throughput and identify bottlenecks in a system including networking
 - - - 
 
 ## Chapter 02 - Predict Future Resource Needs
