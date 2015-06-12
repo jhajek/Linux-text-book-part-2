@@ -183,10 +183,18 @@ You =)
 - - - 
 
 ## Chapter 01 - Measure and Troubleshoot Resource Usage
-
+###Measure CPU usage
+###Measure memory usage
+###Measure disk I/O
+###Measure network I/O
+###Measure firewalling and routing throughput
+###Map client bandwidth usage
+###Match / correlate system symptoms with likely problems
+###Estimate throughput and identify bottlenecks in a system including networking
 - - - 
 
-##Chapter 02 - Predict Future Resource Needs
+## Chapter 02 - Predict Future Resource Needs
+
 
 - - -
 
