@@ -144,7 +144,6 @@
 11.	Network Client Management
   *  DHCP server setup
   *  PAM
-  *  LDAP
   *  OpenLDAP
 
 12.	E-Mail Services
