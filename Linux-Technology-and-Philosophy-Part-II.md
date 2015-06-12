@@ -20,21 +20,21 @@
  
 1.	Capacity Planning
   * Tools of Troubleshooting
-    *  Measure CPU usage
-    *  Measure memory usage
-    *  Measure disk I/O
-    *  Measure network I/O
-    *  Measure firewalling and routing throughput
-    *  Map client bandwidth usage
-    *  Match / correlate system symptoms with likely problems
-    *  Estimate throughput and identify bottlenecks in a system including networking
+    -  Measure CPU usage
+    -  Measure memory usage
+    -  Measure disk I/O
+    -  Measure network I/O
+    -  Measure firewalling and routing throughput
+    -  Map client bandwidth usage
+    -  Match / correlate system symptoms with likely problems
+    -  Estimate throughput and identify bottlenecks in a system including networking
   * Predict Future Resource Needs
-    *  Use collectd to monitor IT infrastructure usage
-    *  Predict capacity break point of a configuration
-    *  Observe growth rate of capacity usage
-    *  Graph the trend of capacity usage
-    *  Awareness of monitoring solutions such as Nagios, MRTG and Cacti
-    *  Monitoring tools such as Ganglia and Vector
+    -  Use collectd to monitor IT infrastructure usage
+    -  Predict capacity break point of a configuration
+    -  Observe growth rate of capacity usage
+    -  Graph the trend of capacity usage
+    -  Awareness of monitoring solutions such as Nagios, MRTG and Cacti
+    -  Monitoring tools such as Ganglia and Vector
 
 2.	The Linux Kernel
   *  Kernel 2.6.x documentation
