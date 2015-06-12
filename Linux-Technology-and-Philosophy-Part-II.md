@@ -157,7 +157,7 @@ Appendix B: Notes
 
 - - -
 ## Chapter 00 - Introduction
-![Understanding the Technology and Philosophy of Unix/Linux](images/cautionary.png "Understanding the Technology and Philosophy of Unix/Linux")
+![Understanding the Technology and Philosophy of Unix/Linux](images/surgery.png "Understanding the Technology and Philosophy of Unix/Linux")
 > Astute quote goes here
 
 ### 0.1 - Objectives of this book/project
@@ -185,7 +185,7 @@ You =)
 - - - 
 
 ## Chapter 01 - Measure and Troubleshoot Resource Usage
-![Understanding the Technology and Philosophy of Unix/Linux](images/cautionary.png "Understanding the Technology and Philosophy of Unix/Linux")
+![Understanding the Technology and Philosophy of Unix/Linux](images/abstraction.png "Understanding the Technology and Philosophy of Unix/Linux")
 > Astute quote goes here
 
 ### 1.1 - Measure CPU usage
@@ -199,7 +199,8 @@ You =)
 - - - 
 
 ## Chapter 02 - Predict Future Resource Needs
-
+![Understanding the Technology and Philosophy of Unix/Linux](images/surgery.png "Understanding the Technology and Philosophy of Unix/Linux")
+> Astute quote goes here
 
 - - -
 
