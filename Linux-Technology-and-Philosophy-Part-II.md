@@ -215,73 +215,79 @@ You =)
 
 - - -
 
-# Chapter 03 - Kernel Components
+## Chapter 03 - Kernel Components
 
 - - - 
 
-# Chapter 04 - Kernel runtime management and troubleshooting
+## Chapter 04 - Kernel runtime management and troubleshooting
 
 - - - 
 
-# Chapter 05 - Customizing SysV-init system startup
+## Chapter 05 - Customizing SysV-init system startup
 
 - - - 
 
-# Chapter 06 - Systemd start up and introduction
+## Chapter 06 - Systemd start up and introduction
 
 - - - 
 
-# Chapter 07 - System Recovery
+## Chapter 07 - System Recovery
 
 - - - 
 
-# Chapter 08 - Alternate Bootloaders
+## Chapter 08 - Alternate Bootloaders
 
 - - -
 
-# Chapter 09 - Filesystems and Devices
+## Chapter 09 - Filesystems and Devices
 
 - - -
 
-# Chapter 10 - Maintaining Linux filesystems
+## Chapter 10 - Maintaining Linux filesystems
 
 - - -
-# Chapter 11 - Advanced Storage Device Administration
+## Chapter 11 - Advanced Storage Device Administration
 
 - - - 
-# Chapter 12 - Adjucting Storage Device Access
-Tools and utilities to configure DMA for IDE devices including ATAPI and SATA
-Tools and utilities to manipulate or analyze system resources (e.g. interrupts)
-Awareness of sdparm command and its uses
-Tools and utilities for iSCSI
+## Chapter 12 - Adjucting Storage Device Access
+
+#### Tools and utilities to configure DMA for IDE devices including ATAPI and SATA
+#### Tools and utilities to manipulate or analyze system resources (e.g. interrupts)
+#### Awareness of sdparm command and its uses
+#### Tools and utilities for iSCSI
 - - - 
-# Chapter 13 - Logical Volume Manager
-LVM suite
-Resizing, renaming, creating, and removing logical drives
-Snapshots
-Active volume groups
+## Chapter 13 - Logical Volume Manager
+#### LVM suite
+#### Resizing, renaming, creating, and removing logical drives
+#### Snapshots
+#### Active volume groups
 - - - 
-# Chapter 14 - Network Configuration
-Configure and manipulate Ethernet settings
-Configure wireless access via iw
-Manipulate route tables
-Monitor traffic
-Troubleshooting network issues
+## Chapter 14 - Network Configuration
+#### Configure and manipulate Ethernet settings
+#### Configure wireless access via iw
+#### Manipulate route tables
+#### Monitor traffic
+#### Troubleshooting network issues
+
 - - - 
-# Chapter 15 - System Maintainance Tools
+
+## Chapter 15 - System Maintainance Tools
 ![Understanding the Technology and Philosophy of Unix/Linux](images/tar.png "Understanding the Technology and Philosophy of Unix/Linux")
 > quote goes here
-Tar
-Make
-Uname
-Bzip
-Gzip
-Configure
-Install
+### Tools
+#### tar
+#### make
+#### uname
+#### bzip
+#### gzip
+#### configure
+#### install
+
 - - - 
-# Chapter 16 - Domain Name Server
-BIND
-DNSMASQ
+
+## Chapter 16 - Domain Name Server
+#### BIND
+#### DNSMASQ
 - - -
 # Chapter 17 - Web Severs
 Apache mods
