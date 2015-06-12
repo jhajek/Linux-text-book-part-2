@@ -157,7 +157,7 @@ Appendix B: Notes
 
 - - -
 ## Chapter 00 - Introduction
-![Understanding the Technology and Philosophy of Unix/Linux](images/surgery.png "Understanding the Technology and Philosophy of Unix/Linux")
+![Understanding the Technology and Philosophy of Unix/Linux](images/cautionary.png "Understanding the Technology and Philosophy of Unix/Linux")
 > Astute quote goes here
 
 ### 0.1 - Objectives of this book/project
@@ -258,6 +258,8 @@ Monitor traffic
 Troubleshooting network issues
 - - - 
 # Chapter 15 - System Maintainance Tools
+![Understanding the Technology and Philosophy of Unix/Linux](images/tar.png "Understanding the Technology and Philosophy of Unix/Linux")
+> quote goes here
 Tar
 Make
 Uname
