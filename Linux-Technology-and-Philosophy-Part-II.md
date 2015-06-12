@@ -148,6 +148,11 @@
 12.	E-Mail Services
 
 13.	System Security
+* Configuring a router 
+* Managing FTP servers 
+* Secure shell (SSH) 
+* Security tasks 
+* OpenVPN 
 
 14. Operations deployment
   * Packer.io
