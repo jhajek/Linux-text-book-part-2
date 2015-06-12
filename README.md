@@ -19,12 +19,15 @@ For PDF output, you’ll need LaTeX. We recommend installing TeX Live via your p
 [Getting-Started](http://pandoc.org/getting-started.html)
 
 If you want to create a PDF, you’ll need to have LaTeX installed. (See MacTeX on OS X, MiKTeX on Windows, or install the texlive package in linux.) Then do
-`pandoc Linux-Technology-and-Philosophy-Part-II.md -s -o ./output/Linux-Technology-and-Philosophy-Part-II.pdf`
+`pandoc ../Linux-Technology-and-Philosophy-Part-II.md -s -o ../output/Linux-Technology-and-Philosophy-Part-II.pdf`
 
 To convert it to HTML, use this command:
-`pandoc Linux-Technology-and-Philosophy-Part-II.md -f markdown -t html -s -o ./output/Linux-Technology-and-Philosophy-Part-II.html`
+`pandoc ../Linux-Technology-and-Philosophy-Part-II.md -f markdown -t html -s -o ../output/Linux-Technology-and-Philosophy-Part-II.html`
 
 [Convert your Markdown file to Word (docx):](http://bob.yexley.net/generate-a-word-document-from-markdown-on-os-x/)
-`pandoc -o ./output/Linux-Technology-and-Philosophy-Part-II.docx -f markdown -t docx Linux-Technology-and-Philosophy-Part-II.md`
+`pandoc -o ../output/Linux-Technology-and-Philosophy-Part-II.docx -f markdown -t docx ../Linux-Technology-and-Philosophy-Part-II.md`
+
+[Convert to epub](http://pandoc.org/epub.html)
+`pandoc ../Linux-Technology-and-Philosophy-Part-II.md -o ../output/Linux-Technology-and-Philosophy-Part-II.md`
 
 Or run the included script in the build folder that will install and generate everything for you 
