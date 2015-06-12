@@ -150,12 +150,25 @@
 21.	System Security
 
 - - -
-Course Objectives:
-* Administer a small to medium-sized site
-* Plan, implement, maintain, keep consistent, secure, and troubleshoot a small mixed (MS, Linux) network, including a: 
-* LAN server (Samba, NFS, DNS, DHCP, client management)
-* Internet Gateway (firewall, VPN, SSH, web cache/proxy, mail)
-* Internet Server (web server and reverse proxy, FTP server)
-* Supervise assistants
-* Advise management on automation and purchases
-*  Guidelines from [LPI II](https://www.lpi.org/certification/get-certified-lpi/lpic-2-linux-network-professional/) 
+# Chapter 0 Introduction
+
+## 0.1 Objectives of this book/project
+
+### Course Objectives:
+  * Administer a small to medium-sized site 
+  * Plan, implement, maintain, keep consistent, secure, and troubleshoot a small mixed (MS, Linux) network, including a: 
+  * LAN server (Samba, NFS, DNS, DHCP, client management)
+  * Internet Gateway (firewall, VPN, SSH, web cache/proxy, mail)
+  * Internet Server (web server and reverse proxy, FTP server)
+  * Supervise assistants
+  * Advise management on automation and purchases
+  *  Guidelines from [LPI II](https://www.lpi.org/certification/get-certified-lpi/lpic-2-linux-network-professional/) 
+
+## 0.2 Who should read it?
+
+## 0.3 Who are we?
+
+## 0.4How this book/project works 
+## 0.4 Acknowledgements
+
+- - - 
