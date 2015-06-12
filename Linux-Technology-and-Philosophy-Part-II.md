@@ -156,11 +156,11 @@ Appendix A: Glossary
 Appendix B: Notes
 
 - - -
-# Chapter 00 - Introduction
+## Chapter 00 - Introduction
 
-## 0.1 Objectives of this book/project
+### 0.1 Objectives of this book/project
 
-### Course Objectives:
+#### Course Objectives:
   * Administer a small to medium-sized site 
   * Plan, implement, maintain, keep consistent, secure, and troubleshoot a small mixed (MS, Linux) network, including a: 
   * LAN server (Samba, NFS, DNS, DHCP, client management)
@@ -170,23 +170,23 @@ Appendix B: Notes
   * Advise management on automation and purchases
   * Guidelines from [LPI II](https://www.lpi.org/certification/get-certified-lpi/lpic-2-linux-network-professional/) 
 
-## 0.2 Who should read it?
+### 0.2 Who should read it?
 
 You =)
 
-## 0.3 Who are we?
+### 0.3 Who are we?
 
-## 0.4How this book/project works 
+### 0.4How this book/project works 
 
-## 0.4 Acknowledgements
-
-- - - 
-
-# Chapter 01 - Measure and Troubleshoot Resource Usage
+### 0.4 Acknowledgements
 
 - - - 
 
-# Chapter 02 - Predict Future Resource Needs
+## Chapter 01 - Measure and Troubleshoot Resource Usage
+
+- - - 
+
+##Chapter 02 - Predict Future Resource Needs
 
 - - -
 
