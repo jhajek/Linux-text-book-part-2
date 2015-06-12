@@ -149,6 +149,12 @@
 
 21.	System Security
 
+22. The Future
+
+Appendix A: Glossary
+
+Appendix B: Notes
+
 - - -
 # Chapter 00 - Introduction
 
@@ -176,6 +182,110 @@ You =)
 
 - - - 
 
-# Chapter 01 
+# Chapter 01 - Measure and Troubleshoot Resource Usage
+
+- - - 
+
+# Chapter 02 - Predict Future Resource Needs
+
+- - -
+
+# Chapter 03 - Kernel Components
+
+- - - 
+
+# Chapter 04 - Kernel runtime management and troubleshooting
+
+- - - 
+
+# Chapter 05 - Customizing SysV-init system startup
+
+- - - 
+
+# Chapter 06 - Systemd start up and introduction
+
+- - - 
+
+# Chapter 07 - System Recovery
+
+- - - 
+
+# Chapter 08 - Alternate Bootloaders
+
+- - -
+
+# Chapter 09 - Filesystems and Devices
+
+- - -
+
+# Chapter 10 - Maintaining Linux filesystems
+
+- - -
+# Chapter 11 - Advanced Storage Device Administration
+
+- - - 
+# Chapter 12 - Adjucting Storage Device Access
+Tools and utilities to configure DMA for IDE devices including ATAPI and SATA
+Tools and utilities to manipulate or analyze system resources (e.g. interrupts)
+Awareness of sdparm command and its uses
+Tools and utilities for iSCSI
+- - - 
+# Chapter 13 - Logical Volume Manager
+LVM suite
+Resizing, renaming, creating, and removing logical drives
+Snapshots
+Active volume groups
+- - - 
+# Chapter 14 - Network Configuration
+Configure and manipulate Ethernet settings
+Configure wireless access via iw
+Manipulate route tables
+Monitor traffic
+Troubleshooting network issues
+- - - 
+# Chapter 15 - System Maintainance Tools
+Tar
+Make
+Uname
+Bzip
+Gzip
+Configure
+Install
+- - - 
+# Chapter 16 - Domain Name Server
+BIND
+DNSMASQ
+- - -
+# Chapter 17 - Web Severs
+Apache mods
+NGINX
+   As a reverse proxy
+- - - 
+#Chapter 18 - File Sharing
+NFS
+SAMBA
+Object Storage (Perhaps just an overview of how it works in comparison?)
+- - - 
+# Chapter 19 - Network Client Management
+DHCP server setup
+PAM
+LDAP
+OpenLDAP
+- - - 
+# Chapter 20 - Email Services
+- - - 
+# Chapter 21 - System Security
+- - - 
+# Chapter 22 - The Future
+Next steps for you
+
+- - -
+# Appendix A: Glossary 
+
+- - - 
+# Appendix B: Links
+
+- - -
+
 
 
