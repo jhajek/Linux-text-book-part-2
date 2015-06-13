@@ -1,3 +1,6 @@
+% Intermediate Linux - Taming the Penguin Understanding the Technology and Philosophy of Unix/Linux Part II
+% Jeremy R. Hajek
+% June 12, 2015
 # Intermediate Linux - Taming the Penguin
 #### Understanding the Technology and Philosophy of Unix/Linux Part II
 ![Understanding the Technology and Philosophy of Unix/Linux](images/success.png "Understanding the Technology and Philosophy of Unix/Linux")
