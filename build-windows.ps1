@@ -5,7 +5,7 @@ rm ./output/pdf/*.pdf
 
 #If you want to create a PDF, you’ll need to have LaTeX installed. (See MacTeX on OS X, MiKTeX on Windows, or install the texlive package in linux.) Then do
 #pandoc ./Chapter-Table-of-Contents/chapter-toc.md ./Chapter-00/chapter-00.md ./Chapter-01/chapter-01.md -s -o ./output/Linux-Technology-and-Philosophy-Part-II.pdf
-pandoc ./Chapter-Table-of-Contents/chapter-toc.md -s -o ./output/pdf/chapter-poc.pdf
+pandoc ./Chapter-Table-of-Contents/chapter-toc.md -s -o ./output/pdf/chapter-toc.pdf
 pandoc ./Chapter-00/chapter-00.md -s -o ./output/pdf/chapter-00.pdf
 pandoc ./Chapter-01/chapter-01.md -s -o ./output/pdf/chapter-01.pdf
 pandoc ./Chapter-02/chapter-02.md -s -o ./output/pdf/chapter-02.pdf
