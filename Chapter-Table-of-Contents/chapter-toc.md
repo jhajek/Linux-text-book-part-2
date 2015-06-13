@@ -1,6 +1,6 @@
 # Intermediate Linux - Taming the Penguin
 #### Understanding the Technology and Philosophy of Linux Part II
-![Understanding the Technology and Philosophy of Unix/Linux](images/success-small.png "Understanding the Technology and Philosophy of Unix/Linux")
+![Understanding the Technology and Philosophy of Unix/Linux](./images/success-small.png "Understanding the Technology and Philosophy of Unix/Linux")
 
 ## Table of Contents
 
