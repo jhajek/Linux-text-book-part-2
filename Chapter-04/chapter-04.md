@@ -1,5 +1,5 @@
 ## Chapter 04 - Filesystem and Devices
-![Understanding the Technology and Philosophy of Unix/Linux](../images/2038.png "Understanding the Technology and Philosophy of Unix/Linux")
+![Understanding the Technology and Philosophy of Unix/Linux](images/2038.png "Understanding the Technology and Philosophy of Unix/Linux")
 > Astute quote goes here
 
   * History of Linux filesystems
