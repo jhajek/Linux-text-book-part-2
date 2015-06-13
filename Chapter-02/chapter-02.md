@@ -1,5 +1,5 @@
 ## Chapter 02 - Predict Future Resource Needs
-![Understanding the Technology and Philosophy of Unix/Linux](../images/surgery.png "Understanding the Technology and Philosophy of Unix/Linux")
+![Understanding the Technology and Philosophy of Unix/Linux](images/surgery.png "Understanding the Technology and Philosophy of Unix/Linux")
 > Astute quote goes here
 
 ### Kernel 2.6.x documentation
