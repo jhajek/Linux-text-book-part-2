@@ -1,11 +1,6 @@
-% Intermediate Linux - Taming the Penguin Understanding the Technology and Philosophy of Unix/Linux Part II
-% Jeremy R. Hajek
-% June 12, 2015
 # Intermediate Linux - Taming the Penguin
 #### Understanding the Technology and Philosophy of Unix/Linux Part II
 ![Understanding the Technology and Philosophy of Unix/Linux](images/success.png "Understanding the Technology and Philosophy of Unix/Linux")
-
-### LPIC-2 based plus the deltas to the revised material
 
 ## Table of Contents
 
@@ -58,9 +53,9 @@
     -  Determine what parameters a module accepts
     -  Configure the system to load modules by names other than their file name.
     -  /proc filesystem
-    - Content of /, /boot/ , and /lib/modules/
+    -  Content of /, /boot/ , and /lib/modules/
     -  Tools and utilities to analyze information about the available hardware
-         *	udev rules
+        +	udev rules
 
 3.  System Start Up and Recovery	
   * SysVInit 
@@ -170,10 +165,12 @@ Appendix B: Notes
 
 - - -
 ## Chapter 00 - Introduction
-![Understanding the Technology and Philosophy of Unix/Linux](images/cautionary.png "Understanding the Technology and Philosophy of Unix/Linux")
+![Understanding the Technology and Philosophy of Unix/Linux](../images/cautionary.png "Understanding the Technology and Philosophy of Unix/Linux")
 > Astute quote goes here
 
 ### 0.1 - Objectives of this book/project
+
+Why undertake another Linux book?  Isn't the world filed with enough documents and books?  On one hand you are correect there are many books in print and available.  Linux/Unix has a unique place in computing.  Entering now it's 4th decade of existance we are facing a new dawn of the use of Linux.  Devices such as Android proliferating [1](http://www.cnet.com/news/android-dominates-81-percent-of-world-smartphone-market/) and companies such as RedHat being a billion dollar company [2](http://arstechnica.com/business/2012/02/how-red-hat-killed-its-core-productand-became-a-billion-dollar-business/).  
 
 #### Course Objectives:
   * Administer a small to medium-sized site 
