@@ -1,5 +1,5 @@
 ## Chapter 01 - Measure and Troubleshoot Resource Usage
-![Understanding the Technology and Philosophy of Unix/Linux](../images/abstraction.png "Understanding the Technology and Philosophy of Unix/Linux")
+![Understanding the Technology and Philosophy of Unix/Linux](images/abstraction.png "Understanding the Technology and Philosophy of Unix/Linux")
 > Astute quote goes here
 
 ### 1.1 Tools of Troubleshooting 
