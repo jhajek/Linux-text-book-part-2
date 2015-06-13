@@ -23,7 +23,7 @@ pandoc ./Chapter-13/chapter-13.md -s -o ./output/pdf/chapter-13.pdf
 pandoc ./Chapter-14/chapter-14.md -s -o ./output/pdf/chapter-14.pdf
 pandoc ./Chapter-15/chapter-15.md -s -o ./output/pdf/chapter-15.pdf
 pandoc ./Glossary-A/Glossary-A.md -s -o ./output/pdf/Glossary-A.pdf
-pandoc ./Glossary-A/Glossary-B.md -s -o ./output/pdf/Glossary-B.pdf
+pandoc ./Glossary-B/Glossary-B.md -s -o ./output/pdf/Glossary-B.pdf
 
 #To convert it to HTML, use this command:
 rm ./output/html/*.html
