@@ -251,31 +251,51 @@ Blogs and Podcasts Links go here
 2.2.1 - /usr/src/linux/
 
 2.2.2 - Kernel Makefiles
+
 2.2.3 - Kernel 2.6.x/3.x make targets
+
 2.2.4 - Customize the current kernel configuration.
+
 2.2.5 - Build a new kernel and appropriate kernel modules.
+
 2.2.6 - Install a new kernel and any modules.
+
 2.2.7 - Ensure that the boot manager can locate the new kernel and associated files.
+
 2.2.8 - Module configuration files
+
 2.2.9 - Awareness of Dracut
 
 ### Kernel runtime management and troubleshooting
+
 2.3.0 - Use command-line utilities to get information about the currently running kernel and kernel modules
+
 2.3.1 - Manually load and unload kernel modules
+
 2.3.2 - Determine when modules can be unloaded
+
 2.3.3 - Determine what parameters a module accepts
+
 2.3.4 - Configure the system to load modules by names other than their file name.
+
 2.3.5 - /proc filesystem
-2.3.6 - Contents of /, /boot/ , and /lib/modules/
-2.3.7 - Tools and utilities to analyze information about the available hardware ◾ udev rules
+
+**2.3.6 - Contents of /, /boot/ , and /lib/modules/**
+
+**2.3.7 - Tools and utilities to analyze information about the available hardware** 
+udev rules
 
 - - -
 
 ## Chapter 03 - Kernel Components
+![Understanding the Technology and Philosophy of Unix/Linux](images/supported_features.png "Understanding the Technology and Philosophy of Unix/Linux")
+> Astute quote goes here
 
 - - - 
 
 ## Chapter 04 - Kernel runtime management and troubleshooting
+![Understanding the Technology and Philosophy of Unix/Linux](images/2038.png "Understanding the Technology and Philosophy of Unix/Linux")
+> Astute quote goes here
 
 - - - 
 
@@ -300,6 +320,9 @@ Blogs and Podcasts Links go here
 - - -
 
 ## Chapter 10 - Maintaining Linux filesystems
+![Understanding the Technology and Philosophy of Unix/Linux](images/debian_main.png "Understanding the Technology and Philosophy of Unix/Linux")
+> Astute quote goes here
+
 
 - - -
 ## Chapter 11 - Advanced Storage Device Administration
