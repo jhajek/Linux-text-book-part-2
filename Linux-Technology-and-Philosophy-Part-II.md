@@ -196,9 +196,15 @@ You =)
 
 ### 0.7 - Environment setup
 
-### 0.8 -Resources for you beyond this book  
-Blogs and Podcasts Links go here
+### 0.8 - Resources for you beyond this book  
 
+  There are many resources out there on the internet.  You should go beyond what just your teacher tells you or expect that they will be like Master Yoda and just dump all knowledge into you.  Though a professor or a mentor is a great place to start, you need to do some work finding communities and resources on the Net you can use to put yourself ahead of the competition.  Here is a short list that helped me greatly and are considered industry wide tools and communities you can participate in at any level.
+  
+  #### [Twit.tv](http://www.twit.tv)
+  
+  This is more than one site it's really the evolution of Television if you think about it.  
+  
+  #### [Stackoverflow](http://www.stackoverflow.com)
 
 - - - 
 
