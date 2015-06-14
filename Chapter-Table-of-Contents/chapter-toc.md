@@ -1,6 +1,6 @@
 # Understanding the Technology and Philosophy of Linux - Part II
 ##### Operantem Doctrina et Philosophia Linux - Parte Duo
-![Understanding the Technology and Philosophy of Unix/Linux](http://imgs.xkcd.com/comics/server_problem.png "Understanding the Technology and Philosophy of Linux")
+![Understanding the Technology and Philosophy of Linux - Edomans Penguin!](http://imgs.xkcd.com/comics/server_problem.png "Understanding the Technology and Philosophy of Linux - Edomans Penguin!")
 
 ## Table of Contents
 
