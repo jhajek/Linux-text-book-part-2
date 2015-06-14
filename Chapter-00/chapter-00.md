@@ -4,9 +4,9 @@
 
 ### 0.1 - Objectives of this book/project
 
-Why undertake another Linux book?  Isn't the world filed with enough documents and books?  On one hand you are correect there are many books in print and available.  Linux/Unix has a unique place in computing.  Entering now it's 4th decade of existance I believe we are facing a new dawn of the use of Linux.  Devices such as Android proliferating [1](http://www.cnet.com/news/android-dominates-81-percent-of-world-smartphone-market/) and companies such as RedHat being a billion dollar company [2](http://arstechnica.com/business/2012/02/how-red-hat-killed-its-core-productand-became-a-billion-dollar-business/).  Linux battles with its heritage of stemming from the Free Software movement of RMS and the OpenSource modern mission os the OSI.  Stallman himself wrote a compelling article entitled [Why Open Source misses the point of Free Software](http://www.gnu.org/philosophy/open-source-misses-the-point.html).  
+Why undertake another Linux book?  Isn't the world filed with enough documents and books?  On one hand you are correect there are many books in print and available.  Linux/Unix has a unique place in computing.  Entering now it's 4th decade of existance I believe we are facing a new dawn of the use of Linux.  Devices such as Android proliferating [1](http://www.cnet.com/news/android-dominates-81-percent-of-world-smartphone-market/) and companies such as RedHat being a billion dollar company [2](http://arstechnica.com/business/2012/02/how-red-hat-killed-its-core-productand-became-a-billion-dollar-business/).  Linux battles with its heritage of stemming from the Free Software movement of RMS and the OpenSource modern mission os the OSI.  Stallman himself wrote a compelling article entitled ["Why Open Source misses the point of Free Software"](http://www.gnu.org/philosophy/open-source-misses-the-point.html).  
 
-On the other hand you have the Debian "Civil War" in regards to Systemd and its integration, some would say take over of Linux.  Are the Devuan developers who split from Debian just nostalgists harkoning for the halcyon days of early 2000's Linux wild west days?  Or do they have legitimte concerns (technical and ethical) about the direction of Linux?   
+On the other hand you have the Debian [*"Civil War"*](http://debianfork.org/) in regards to Systemd and its integration, some would say take over of Linux.  Are the Devuan developers who split from Debian just nostalgists harkoning for the halcyon days of early 2000's Linux wild west days?  Or do they have legitimte concerns (technical and ethical) about the direction of Linux?   
 
  It is in this background that this book is being generated.  There have been many fine books I have used over the years and have greatly benefitted from. Most of these books the content 80% is still valid-- vi is still vi right?  Only the desktop and package manangement has changed.  But the nature of development has changed.  Both Fedora and Ubnuntu are on a six-month release cycle--making teaching about Linux features more difficult in a traditional book format.  ALso there are many quality distributions out there that we cannot cover them all.  A community effort is being constructed here so that anyone who can contribute material can do so freely via pull request or a fork with attribution.  
 
@@ -26,11 +26,11 @@ At the end of this book students/readers should be able to:
   * Supervise assistants
   * Advise management on automation and purchases
   * Guidelines from [LPI II](https://www.lpi.org/certification/get-certified-lpi/lpic-2-linux-network-professional/) 
-  * Add more as needed....
+  * Add more as seen fit....
   
 ### 0.2 - Who should read it?
 
-You should.  Any student or reader who has basic knowledge of Linux as an Operating System and its tools who is now looking to move into applciation and operation of multiple Linux systems and services.
+You should.  Any student or reader who has basic knowledge of Linux as an Operating System and its tools who is now looking to move into applciation and operation of multiple Linux systems and services. Or update your skills.
 
 ### 0.3 - Who are we?
 
@@ -38,12 +38,30 @@ My name is Inigo Montoya...
 
 ### 0.4 - How this book/project works 
 
+The book contains Chapters which have overarching goals and objectives, followed by an introduction, followed then by lecture material and references with examples followed by review questions and labs.  The review questions will be provided as Blackboard Quizes for autograding too.  All of this will be avalialbe on Github at the books URL [https://github.com/jhajek/Linux-text-book-part-2](https://github.com/jhajek/Linux-text-book-part-2).
+
+The text is available on line - and can be generated into 5 different formats via [Pandoc](http://pandoc.org/)
+* docx
+* pdf
+* odt
+* epub
+* html   
+
+Information is in the [README.md](https://github.com/jhajek/Linux-text-book-part-2/blob/master/README.md) https://github.com/jhajek/Linux-text-book-part-2/blob/master/README.md contained in this project
+
+Also plans to have hard boudn editions for sale at Lulu (microprinter)  that is in the works.
 
 ### 0.5 - Acknowledgements
 
+Many people have helped me in the journey of learning technology.  
+
+I would like to that xkcd for the insightful linux cartoons
+
+and Professor Sam Shamsuddin who taught me its not ee-tee-cee ef-es-tab but really ee-tee-cee ef-stab.
 
 ### 0.6 - Linux/Unix History and Philosophy (pulled from other book)
 
+[See first book](https://github.com/jhajek/Linux-text-book-part-1)
 
 ### 0.7 - Environment setup
 
