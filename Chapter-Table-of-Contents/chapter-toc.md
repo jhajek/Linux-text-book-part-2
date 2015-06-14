@@ -1,6 +1,7 @@
 # Intermediate Linux - Taming the Penguin
-#### Understanding the Technology and Philosophy of Linux Part II
-![Understanding the Technology and Philosophy of Unix/Linux](./images/success-small.png "Understanding the Technology and Philosophy of Unix/Linux")
+#### Understanding the Technology and Philosophy of Linux - Part II
+##### Operantem Doctrina et Philosophia Linux - Parte Duo
+![Understanding the Technology and Philosophy of Unix/Linux](http://imgs.xkcd.com/comics/success.png "Understanding the Technology and Philosophy of Linux")
 
 ## Table of Contents
 
@@ -14,6 +15,7 @@
  * Environment setup
  * Resources for you beyond this book
     -  Blogs and Podcasts
+ * Chapter Conclusion
  
 1.	Capacity Planning
   * Tools of Troubleshooting
