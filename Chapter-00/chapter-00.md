@@ -41,6 +41,7 @@ My name is Inigo Montoya...
 The book contains Chapters which have overarching goals and objectives, followed by an introduction, followed then by lecture material and references with examples followed by review questions and labs.  The review questions will be provided as Blackboard Quizes for autograding too.  All of this will be avalialbe on Github at the books URL [https://github.com/jhajek/Linux-text-book-part-2](https://github.com/jhajek/Linux-text-book-part-2).
 
 The text is available on line - and can be generated into 5 different formats via [Pandoc](http://pandoc.org/)
+
 * docx
 * pdf
 * odt
@@ -51,30 +52,56 @@ Information is in the [README.md](https://github.com/jhajek/Linux-text-book-part
 
 Also plans to have hard boudn editions for sale at Lulu (microprinter)  that is in the works.
 
-### 0.5 - Acknowledgements
+### Section 0.5 - Acknowledgements
 
-Many people have helped me in the journey of learning technology.  
+Many people have helped me in the journey of learning technology -- more to fill out as I get closer to making this a reality.
 
 I would like to that xkcd for the insightful linux cartoons
 
-and Professor Sam Shamsuddin who taught me its not ee-tee-cee ef-es-tab but really ee-tee-cee ef-stab.
+Professor Sam Shamsuddin who taught me its not ee-tee-cee ef-es-tab but really ee-tee-cee ef-stab.
 
-### 0.6 - Linux/Unix History and Philosophy (pulled from other book)
+### Section 0.6 - Linux/Unix History and Philosophy (pulled from other book)
 
 [See first book](https://github.com/jhajek/Linux-text-book-part-1)
 
-### 0.7 - Environment setup
+### Section 0.7 - Environment setup for this book
 
 This book assumes that you have access to a server edition of Linux.  I will be referencing instances using the VirtualBox Platform, but all of this work can be done on Hyper-V, VmWare, Parallels, or any other vm software you have, as well as AWS, Azure, Digital Ocean, Rackspace, and any other cloud service you can find (charges may apply)  Finally if you have an old PC laying around you can install these operating systems natively and all these exercises will work well.  
 
-### 0.8 - Resources for you beyond this book  
+### Section 0.8 - Resources for you beyond this book  
 
-  There are many resources out there on the internet.  You should go beyond what just your teacher tells you or expect that they will be like Master Yoda and just dump all knowledge into you.  Though a professor or a mentor is a great place to start, you need to do some work finding communities and resources on the Net you can use to put yourself ahead of the competition.  Here is a short list that helped me greatly and are considered industry wide tools and communities you can participate in at any level.
+  There are many resources out there on the internet.  You should go beyond what just your teacher tells you or expect that they will be like Master Yoda and just dump all knowledge into you.  Though a professor or a mentor is a great place to start, you need to do some work finding communities and resources on the Internet you can use to put yourself ahead of the competition.  Here is a short list that helped me greatly and are considered industry wide tools and communities you can participate in at any level.
   
-  #### [Twit.tv](http://www.twit.tv)
+#### [Twit.tv](http://www.twit.tv) 
+
+This is more than one site it's really the evolution of Television if you think about it.  
+
+The site has a television like quality but all the shows are freely avaliable with archives.
+
++    [http://twit.tv/show/security-now](Security Now!)
++    [http://twit.tv/show/floss-weekly](FLOSS Weekly) 
++    [http://twit.tv/show/tri](Triangulation) 
   
-  This is more than one site it's really the evolution of Television if you think about it.  
-  
-  #### [Stackoverflow](http://www.stackoverflow.com)
+  #### Stackoverlfow / Stackexchange
+
++    [http://stackoverflow.com](Stackoverflow)
++    [http://serverfault.com](Serverfault)
++    [http://superuser.com](SuperUser)
++    [http://askubuntu.com](Ask Ubuntu)
++    [https://ask.fedoraproject.org/en/questions/](Ask Feodra) -> Not a stackexchange site but a copy serving the same purpose
+
+  #### [meetup.com](http://www.meetup.com) 
+   
+   Great way to find meetups in your local area. Usually sponsored at a corporate headquarters and a great way to meet people who are in the industry talking about things important to those that are hiring.  Great for students and others looking to learn beyond the class and make connections.
+
+#### Good old mailing lists
+
+  Find your favorite opensource project and join their mailing list.  You can learn alot just by being a reader.
+   
+ #### More to come
+
+### Section 0.9 - Conclusion
+
+You are ready to begin.  Hit Enter to Continue...
 
 - - - 
