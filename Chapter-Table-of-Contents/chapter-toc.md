@@ -5,35 +5,49 @@
 ## Table of Contents
 
 0. Introduction and Notes
- * Objectives of this book/project
- * Who should read it?
- * Who are we?
- * How this book/project works 
- * Acknowledgements
- * Linux/Unix History and Philosophy (pulled from other book)
- * Environment setup
- * Resources for you beyond this book
-    -  Blogs and Podcasts
- * Chapter Conclusion
+ * 0.1 - Objectives of this book/project
+ * 0.2 - Who should read it?
+ * 0.3 - Who are we?
+ * 0.4 - How this book/project works 
+ * 0.5 - Acknowledgements
+ * 0.6 - Linux/Unix History and Philosophy (pulled from other book)
+ * 0.7 - Environment setup
+ * 0.8 - Resources for you beyond this book
+    -  0.8.1 - Blogs and Podcasts
+ * 0.9 - Chapter Conclusion
  
-1.	Capacity Planning
-  * Tools of Troubleshooting
-    -  Measure CPU usage
-    -  Measure memory usage
-    -  Measure disk I/O
-    -  Measure network I/O
-    -  Measure firewalling and routing throughput
-    -  Map client bandwidth usage
-    -  Match / correlate system symptoms with likely problems
-    -  Estimate throughput and identify bottlenecks in a system including networking
-  * Predict Future Resource Needs
-    -  Use collectd to monitor IT infrastructure usage
-    -  Predict capacity break point of a configuration
-    -  Observe growth rate of capacity usage
-    -  Graph the trend of capacity usage
-    -  Awareness of monitoring solutions such as Nagios, MRTG and Cacti
-    -  Monitoring tools such as Ganglia and Vector
-
+1.	Operating Systems and Capacity Planning
+  
+     * 1.1.0 - Linux Server Operating Systems 
+        - 1.1.1 - Difference between Server and Desktop
+        - 1.1.2 - OS families
+        - 1.1.3 - Installation Overview
+            + Netinstall
+            + iso install         
+  
+      * 1.2.0 - Tools of Troubleshooting
+        -  1.2.1 - Measure CPU usage
+        -  1.2.2 - Measure memory usage
+        -  1.2.3 - Measure disk I/O
+        -  1.2.4 - Measure network I/O
+        -  1.2.5 - Measure firewalling and routing throughput
+        -  1.2.6 - Map client bandwidth usage
+        -  1.2.7 - Match / correlate system symptoms with likely problems
+        -  1.2.8 - Estimate throughput and identify bottlenecks in a system including networking
+  
+      * 1.3.0 - Predict Future Resource Needs
+        -  1.3.1 - Use collectd to monitor IT infrastructure usage
+        -  1.3.2 - Predict capacity break point of a configuration
+        -  1.3.3 - Observe growth rate of capacity usage
+        -  1.3.4 - Graph the trend of capacity usage
+        -  1.3.5 - Awareness of monitoring solutions such as Nagios, MRTG and Cacti
+        -  1.3.6 - Monitoring tools such as Ganglia and Vector
+  
+      * 1.4.0 - Chapter Conclusion and Summary
+        -  1.4.1 - Review Questions
+        -  1.4.2 - Podcast Review Questions
+        -  1.4.3 - Review Lab
+  
 2.	The Linux Kernel
   *  Kernel 2.6.x documentation
   *  Kernel 3.x documentation

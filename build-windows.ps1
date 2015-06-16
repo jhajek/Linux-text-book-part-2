@@ -28,7 +28,7 @@ pandoc ./Glossary-B/Glossary-B.md -s -o ./output/pdf/Glossary-B.pdf
 #To convert it to HTML, use this command:
 rm ./output/html/*.html
 
-#pandoc ./Chapter-Table-of-Contents/chapter-toc.md ./Chapter-00/chapter-00.md ./Chapter-01/chapter-01.md -f markdown -t html -s -o ./output/Linux-Technology-and-Philosophy-Part-II.html
+pandoc ./Chapter-Table-of-Contents/chapter-toc.md ./Chapter-00/chapter-00.md ./Chapter-01/chapter-01.md -f markdown -t html -s -o ./output/Linux-Technology-and-Philosophy-Part-II.html
 
 #[Convert your Markdown file to Word (docx):](http://bob.yexley.net/generate-a-word-document-from-markdown-on-os-x/)
 #pandoc -o ./output/Linux-Technology-and-Philosophy-Part-II.docx -f markdown -t docx ./Chapter-Table-of-Contents/chapter-toc.md ./Chapter-00/chapter-00.md ./Chapter-01/chapter-01.md
