@@ -1,6 +1,5 @@
 ## Chapter 01 - Measure and Troubleshoot Resource Usage
-![Understanding the Technology and Philosophy of Linux](http://imgs.xkcd.com/comics/abstraction.png "Understanding the Technology and Philosophy of Linux")
-> Measure twice, cut once - *Proverb*
+![Measure twice, cut once - *Proverb*](http://imgs.xkcd.com/comics/abstraction.png "Understanding the Technology and Philosophy of Linux")
 
 ### Section 1.1.0 Operating Systems and Capacity Planning
 
