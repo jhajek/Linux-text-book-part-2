@@ -43,4 +43,3 @@
 **2.3.7 - Tools and utilities to analyze information about the available hardware** 
 udev rules
 
-- - -

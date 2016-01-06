@@ -5,6 +5,11 @@ set -e
 #[Getting-Started](http://pandoc.org/getting-started.html)
 # Dependency needed http://tex.stackexchange.com/questions/43108/texlive-does-not-find-sty-file
 # Hello from ITMO 544-444
+#  You will need to add some packages from the tlmgr before this compiles correctly if you used the BasicTeX package
+# 
+# sudo tlmgr install collection-fontsrecommended
+# sudo tlmgr install titlesec
+# 
 
 STAMP=`date +%m%d%y-%H%M%S`
 
@@ -28,7 +33,7 @@ pandoc --toc -V geometry:margin=1in --number-sections --include-in-header ./titl
 # EPUB - To convert it to EPUB, use this command:               #
 #################################################################
 
-pandoc --toc --number-sections --epub-cover-image=images/Chapter-Header/Cover/John_Calvin_by_Holbein.png -S -o ./output/epub/Understanding-the-Technology-and-Philosophy-of-Linux-Part-II-$STAMP.epub ./title/title.txt  ./Chapter-01/chapter-01.md ./Chapter-02/chapter-02.md ./Chapter-03/chapter-03.md ./Chapter-04/chapter-04.md ./Chapter-05/chapter-05.md ./Chapter-06/chapter-06.md ./Chapter-07/chapter-07.md ./Chapter-08/chapter-08.md ./Chapter-09/chapter-09.md ./Chapter-10/chapter-10.md ./Chapter-11/chapter-11.md ./Chapter-12/chapter-12.md ./Chapter-13/chapter-13.md ./Chapter-14/chapter-14.md ./Chapter-15/chapter-15.md  ./Appendix-A/Appendix-A.md ./Appendix-B/Appendix-B.md 
+#pandoc --toc --number-sections --epub-cover-image=images/Chapter-Header/Cover/John_Calvin_by_Holbein.png -S -o ./output/epub/Understanding-the-Technology-and-Philosophy-of-Linux-Part-II-$STAMP.epub ./title/title.txt  ./Chapter-01/chapter-01.md ./Chapter-02/chapter-02.md ./Chapter-03/chapter-03.md ./Chapter-04/chapter-04.md ./Chapter-05/chapter-05.md ./Chapter-06/chapter-06.md ./Chapter-07/chapter-07.md ./Chapter-08/chapter-08.md ./Chapter-09/chapter-09.md ./Chapter-10/chapter-10.md ./Chapter-11/chapter-11.md ./Chapter-12/chapter-12.md ./Chapter-13/chapter-13.md ./Chapter-14/chapter-14.md ./Chapter-15/chapter-15.md  ./Appendix-A/Appendix-A.md ./Appendix-B/Appendix-B.md 
  
 ##################################################################
 # HTML5 - To convert it to HTML, use this command:              #
@@ -39,11 +44,11 @@ pandoc --toc -S -f markdown -t html5 -o ./output/html/Understanding-the-Technolo
 #############################################################################################################################
 # DOCX - [Convert your Markdown file to Word (docx):](http://bob.yexley.net/generate-a-word-document-from-markdown-on-os-x/)#############################################################################################################################
 
-pandoc --toc -o ./output/docx/Understanding-the-Technology-and-Philosophy-of-Linux-Part-II-$STAMP.docx -f markdown -t docx ./title/title.txt  ./Chapter-01/chapter-01.md ./Chapter-02/chapter-02.md ./Chapter-03/chapter-03.md ./Chapter-04/chapter-04.md ./Chapter-05/chapter-05.md ./Chapter-06/chapter-06.md ./Chapter-07/chapter-07.md ./Chapter-08/chapter-08.md ./Chapter-09/chapter-09.md ./Chapter-10/chapter-10.md ./Chapter-11/chapter-11.md ./Chapter-12/chapter-12.md ./Chapter-13/chapter-13.md ./Chapter-14/chapter-14.md ./Chapter-15/chapter-15.md  ./Appendix-A/Appendix-A.md ./Appendix-B/Appendix-B.md 
+#pandoc --toc -o ./output/docx/Understanding-the-Technology-and-Philosophy-of-Linux-Part-II-$STAMP.docx -f markdown -t docx ./title/title.txt  ./Chapter-01/chapter-01.md ./Chapter-02/chapter-02.md ./Chapter-03/chapter-03.md ./Chapter-04/chapter-04.md ./Chapter-05/chapter-05.md ./Chapter-06/chapter-06.md ./Chapter-07/chapter-07.md ./Chapter-08/chapter-08.md ./Chapter-09/chapter-09.md ./Chapter-10/chapter-10.md ./Chapter-11/chapter-11.md ./Chapter-12/chapter-12.md ./Chapter-13/chapter-13.md ./Chapter-14/chapter-14.md ./Chapter-15/chapter-15.md  ./Appendix-A/Appendix-A.md ./Appendix-B/Appendix-B.md 
 
 #############################################################################################################################
 # ODT OpenOffice Document Format
-
+#############################################################################################################################
 pandoc --toc -o ./output/odt/Understanding-the-Technology-and-Philosophy-of-Linux-Part-II-$STAMP.odt -f markdown -t odt ./Chapter-01/chapter-01.md ./Chapter-02/chapter-02.md ./Chapter-03/chapter-03.md ./Chapter-04/chapter-04.md ./Chapter-05/chapter-05.md ./Chapter-06/chapter-06.md ./Chapter-07/chapter-07.md ./Chapter-08/chapter-08.md ./Chapter-09/chapter-09.md ./Chapter-10/chapter-10.md ./Chapter-11/chapter-11.md ./Chapter-12/chapter-12.md ./Chapter-13/chapter-13.md ./Chapter-14/chapter-14.md ./Chapter-15/chapter-15.md  ./Appendix-A/Appendix-A.md ./Appendix-B/Appendix-B.md
 
 
