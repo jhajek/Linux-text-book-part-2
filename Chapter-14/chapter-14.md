@@ -1,6 +1,7 @@
-## Chapter 14 - Operations Deployment at Scale
-Packer.io
-Vagrant 
-AWS/AZURE commandline 
-
+## Chapter 13 - System Security
+  * Configuring a router 
+  * Managing FTP servers 
+  * Secure shell (SSH) 
+  * Security tasks 
+  * OpenVPN 
 - - - 

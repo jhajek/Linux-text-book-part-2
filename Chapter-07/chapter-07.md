@@ -1,11 +1,3 @@
-## Chapter 07 - System Maintenance and Tools
-  *  tar
-  *  make
-  *  uname
-  *  compression
-    - bzip
-    - gzip
-    - xz
-  *  configure
-  *  install
+## Chapter 06 - Systemd start up and introduction
+
 - - - 

@@ -1,14 +1,21 @@
-## Chapter 04 - Filesystem and Devices
-![Understanding the Technology and Philosophy of Unix/Linux](http://imgs.xkcd.com/comics/2038.png "Understanding the Technology and Philosophy of Unix/Linux")
-> Astute quote goes here
-
-  * History of Linux filesystems
-    -  The concept of the fstab configuration
-    -  Tools and utilities for handling SWAP partitions and files
-    -  Use of UUIDs
-  *	Maintaining a Linux filesystem
-    -  Tools and utilities to manipulate and ext2, ext3 and ext4
-    -  Tools and utilities to manipulate xfs
-    -  Awareness of Btrfs and ZFS and FUSE
+## Chapter 03 - System Start Up and Recovery	
+  * SysVInit 
+    -  Customizing SysV-init system startup
+    -  Linux Standard Base Specification (LSB)
+  * Introduction to Systemd start up  
+    - Details about systemd
+  * System Recovery
+    -  GRUB version 2 and Legacy
+    -  Grub shell
+    -  Boot loader start and hand off to kernel
+    -  Kernel loading
+    -  Hardware initialization and setup
+    -  Daemon/service initialization and setup
+    -  Know the different boot loader install locations on a hard disk or removable device  *  
+    -  Overwriting standard boot loader options and using boot loader shells
+    -  Awareness of UEFI
+  * Alternate bootloaders
+    -  PXE
+    -  Grub and Grub2
 
 - - - 

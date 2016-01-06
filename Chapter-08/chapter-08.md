@@ -1,9 +1,11 @@
-## Chapter 08 - Web Services 
-  *  APACHE
-    -  Apache mods
-    -  Reverse proxy
-    -  SSL configuration
-   * NGINX
-      - As a reverse proxy
-
-- - -
+## Chapter 07 - System Maintenance and Tools
+  *  tar
+  *  make
+  *  uname
+  *  compression
+    - bzip
+    - gzip
+    - xz
+  *  configure
+  *  install
+- - - 

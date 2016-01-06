@@ -1,5 +1,6 @@
-## Chapter 11 - Network Client Management
-  *  DHCP server setup
-  *  PAM
-  *  OpenLDAP
-- - - 
+## Chapter 10 - File Sharing
+  * NFS
+  * SAMBA
+  * Object Storage (Perhaps just an overview of how it works in comparison?)
+
+- - -

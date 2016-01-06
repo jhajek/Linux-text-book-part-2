@@ -1,1 +1,5 @@
-## Chapter 12 - E-Mail Services
+## Chapter 11 - Network Client Management
+  *  DHCP server setup
+  *  PAM
+  *  OpenLDAP
+- - - 
