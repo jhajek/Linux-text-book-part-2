@@ -66,11 +66,11 @@ Professor Sam Shamsuddin who taught me its not ee-tee-cee ef-es-tab but really e
 
 ## Environment setup for this book
 
-This book assumes that you have access to a server edition of Linux.  I will be referencing instances using the VirtualBox Platform, but all of this work can be done on Hyper-V, VmWare, Parallels, or any other vm software you have, as well as AWS, Azure, Digital Ocean, Rackspace, and any other cloud service you can find (charges may apply)  Finally if you have an old PC laying around you can install these operating systems natively and all these exercises will work well.  
+This book assumes that you have access to a server edition of Linux.  I will be referencing instances using the VirtualBox Platform, but all of this work can be done on Hyper-V, VmWare, Parallels, or any other vm software you have, as well as AWS, Azure, Digital Ocean, Rackspace, or any other cloud service you can find (charges may apply).  Finally if you have an old PC laying around you can install these operating systems natively and all these exercises will work well.  
 
 ## Resources for you beyond this book  
 
-  There are many resources out there on the internet.  You should go beyond what just your teacher tells you or expect that they will be like Master Yoda and just dump all knowledge into you.  Though a professor or a mentor is a great place to start, you need to do some work finding communities and resources on the Internet you can use to put yourself ahead of the competition.  Here is a short list that helped me greatly and are considered industry wide tools and communities you can participate in at any level.
+  There are many resources out there on the internet.  You should go beyond expecting your instructor to tell you everything or expect that they are like Master Yoda and just dump all knowledge into you.  Though a professor or a mentor is a great place to start, you need to do some work finding communities and resources on the internet you can use to put yourself ahead of the competition.  Here is a short list that helped me greatly and are considered industry wide tools and communities you can participate in at any level.
   
 ### [Twit.tv](http://www.twit.tv) 
 
@@ -96,11 +96,10 @@ The site has a television like quality but all the shows are freely avaliable wi
 
 ### Good old mailing lists
 
-  Find your favorite opensource project and join their mailing list.  You can learn much just by being a reader.
+  Find your favorite opensource project and join their mailing list and get a dailey digest of the communication going on.  You can learn much just by being a reader.
    
-### More to come
-
 ## Conclusion
 
-You are ready to begin.  Hit Enter to Continue...
+You are ready to begin.  Hit Any Key to Continue...
+
 
