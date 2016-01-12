@@ -1,8 +1,46 @@
-## Chapter 01 - Measure and Troubleshoot Resource Usage
-![Measure twice, cut once - *Proverb*](http://imgs.xkcd.com/comics/abstraction.png "Understanding the Technology and Philosophy of Linux")
+# Opensource Server Software 
+![Measure twice, cut once - *proverb*](images/Chapter-Header/chapter-02/abstraction.png "Understanding the Technology and Philosophy of Linux")
 
-### Section 1.1.0 Operating Systems and Capacity Planning
+__Chapter 2 Objectives__
 
+  *  Define Opensource Server Operating systems and their distinct families
+  *  Understand the history of these families
+  *  Understand the different types of install media available
+  *  Understand how to install various types of opensource operating systems
+  *  Review the differences between *Free Software* and *Opensource*
+  
+__Outcomes__
+ 
+   At the conclusion of this chapter you will be familiar with the 3 main families of Opensource server software: BSD, Linux, and IllumOS.  You will be comfortable installing these operating systems from various types of media.  This demonstrates your understanding of and comfort with Free and Opensource server based operating systems.
+
+## Introduction
+
+  *"In my former book dear Theophilus..."* [^1]  This is the second book in the series of Understanding the Philosophy and Technology of Linux.  The first book sought to teach about the tooling and the reasons why those tools were created and for what purpose.  The second book now seeks to advance your tooling knowledge and bring you into the system adminstration arena--which focuses more on handling the applications and services that will run on those servers.   In the course of this chapter we need to indentify what are the right tools to complete that job.  We will begin with a review of Opensource and Free Software and then proceed to survey the types of operating systems available and their similarities and differences.
+
+### Review of Opensource and Free Software
+
+  The difference is nuonced but can be summed up in one sentence.  Free Software is a moral/societal issue protecting the freedom of users/communities to freely (not cost) use, examine, modify, and share source code.  Opensource software is a transparent development model that promotes its superior methodology and its ability to prevent vendor lockin, based on the code being open and available under a license.  One is moral, one is developmental focused.  
+
+
+
+
+## Chapter Conclusion and Summary
+
+
+### Review Questions
+
+
+### Podcast Questions
+
+
+
+### Lab
+
+
+#### Footnotes 
+ 
+[^1]: Acts of the Apostles 1:1 NIV 
+ 
 Every journey begins with a plan. Every international vacation down to a simple trip to the grocery store. And yet that plan is only as good as your equipment and tools right?  In determining how to organize this book, we took an approach focusing on the tools at hand needed to accomplish your task as a system administrator.  In this chapter we want discuss and explain the ins and outs of the bedrock of your network operation, your operating system.  In addition we want to explore and discuss some Linux tools that can be used for resource measurement. Being able to determine the correct operating system is vital in any operation.  
 
 Objectives
