@@ -22,7 +22,7 @@ On the other hand you have the Debian [*"Civil War"*](http://debianfork.org/) in
 
 Seeing as this book focuses more on system administration we will focus mostly on "server" editions of Linux, such as RHEL, CENTOS, UBUNTU SERVER, FEDORA ATOM, and FREEBSD for comparison.  Since this book is being geared for use as a textbook, I wanted to include more than just exercises but background and context to the technologies being used.  I have included links to podcasts that I believe will be helpful in illuminating the background for the readers. 
 
-The main focus is following the LPIC II exam structure plus additions owing to the nature of how technology is moving.  These chapter lists were compiled based on their exam objectives from 2013 plus updates in the area I personally believe are valuable to students based on industry experience I have gathered.
+The main focus is following the LPIC II exam structure plus additions owing to the nature of how technology is moving.  These chapter lists were compiled based on their exam objectives from 2013 plus updates in the area I personally believe are valuable to students based on industry experience gathered.
 
 ## Objectives
 
@@ -64,8 +64,6 @@ My name is Inigo Montoya...
 ## Acknowledgements
 
 Many people have helped me in the journey of learning technology -- more to fill out as I get closer to making this a reality.
-
-I would like to that xkcd for the insightful linux cartoons
 
 Professor Sam Shamsuddin who taught me its not ee-tee-cee ef-es-tab but really ee-tee-cee ef-stab.
 
