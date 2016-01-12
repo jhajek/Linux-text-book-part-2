@@ -20,6 +20,38 @@ __Outcomes__
 ### Review of Opensource and Free Software
 
   The difference is nuonced but can be summed up in one sentence.  Free Software is a moral/societal issue protecting the freedom of users/communities to freely (not cost) use, examine, modify, and share source code.  Opensource software is a transparent development model that promotes its superior methodology and its ability to prevent vendor lockin, based on the code being open and available under a license.  One is moral, one is developmental focused.  
+  
+  Free Software was and still is championed by the [FSF](http://fsf.org "FSF") and [Richard Stallman](https://en.wikipedia.org/wiki/Richard_Stallman "RMS").  Opensource software term was initially coined in 1998 by the Open Source Initiative and made famous by [Eric S. Raymond](https://en.wikipedia.org/wiki/Eric_S._Raymond "ESR").     
+
+### GPL
+
+The main license that governs both Free and Opensource software (FOSS) is the GPL [GNU General Public License](https://en.wikipedia.org/wiki/GNU_General_Public_License "GPL") this license created in 1989 by Richard Stallman.  This was a Free Software license that guranteed the 4 software freedoms: [^2]
+
+ 1)  The freedom to run the program as you wish, for any purpose (freedom 0).
+ 1)  The freedom to study how the program works, and change it so it does your computing as you wish (freedom 1). Access to the source code is a precondition for this.
+ 1)  The freedom to redistribute copies so you can help your neighbor (freedom 2).
+ 1)  The freedom to distribute copies of your modified versions to others (freedom 3). By doing this you can give the whole community a chance to benefit from your changes. Access to the source code is a precondition for this.
+
+ The GPL license comes in two flavors, GPLv2 and GPLv3.  GPLv2 was released in 1991 and the opensource license the Linux kernel is mostly released under.  Some would say that this license at the right time was able to "launch" opensource into the mainstream.  This is also a source of contention with opensource taking the law of Free Software but forgetting the spirit so to speak.  GPLv3 was released in 2007 in order to address some of the percieved lack of commercial protections in the GPLv2.  Companies had found clever ways to bend the intent of GPLv2 license and yet not legally violate the license.  This lead Richard Stallman to introduce certain articles and sub-sections in GPLv3 in order to specifically prohibit these practices.  This alientated those who saw GPLv2 as good enough and did not want a more restrictive license implemented in the case of GPLv3.  Linus Torvalds and the Linux kernel were expressly mentioned to be staying at GPLv2 and disagres that the GPLv3 destroys everything that the GPLv2 stood for.
+ 
+### LGPL
+
+These licenses are not the only licenses in the FOSS arena.  In addition to GPL, GNU has additional Free and Copy-left licenses.  The first one to mention is the [GNU Lesser General Public License - LGPL](https://en.wikipedia.org/wiki/GNU_Lesser_General_Public_License "LGPL").   This license is usally attributted to software libraries not entire works of software.  The idea behind it is a GPL compatible (but lesser) license that allows libraries to be used with non-GPL software and the library retains the ability to be reverse engineered and debugged but does not take over the entire project license-wise but allows for inclusion of a library into a non-GPL project.  Version 3 of the GPL was released in 2007 along with GPLv3 to show the unity in changes.    
+
+### APL (Apache)
+
+### MPL (Mozilla)
+
+### MIT
+
+### BSD-style
+
+### Sun/Oracle CDDL
+
+### Other OSI Approved Licenses
+
+
+You will encounter these licenses and have to make decisions about them as you use and choose software for your projects.
 
 
 
@@ -38,8 +70,10 @@ __Outcomes__
 
 
 #### Footnotes 
- 
+
 [^1]: Acts of the Apostles 1:1 NIV 
+ 
+[^2]: [https://en.wikipedia.org/wiki/The_Free_Software_Definition#The_definition_and_the_Four_Freedoms](https://en.wikipedia.org/wiki/The_Free_Software_Definition#The_definition_and_the_Four_Freedoms "Four Freedoms") 
  
 Every journey begins with a plan. Every international vacation down to a simple trip to the grocery store. And yet that plan is only as good as your equipment and tools right?  In determining how to organize this book, we took an approach focusing on the tools at hand needed to accomplish your task as a system administrator.  In this chapter we want discuss and explain the ins and outs of the bedrock of your network operation, your operating system.  In addition we want to explore and discuss some Linux tools that can be used for resource measurement. Being able to determine the correct operating system is vital in any operation.  
 
