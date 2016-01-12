@@ -1,4 +1,4 @@
-# Opensource Server Software 
+# Opensource Licensing
 ![Measure twice, cut once - *proverb*](images/Chapter-Header/chapter-02/abstraction.png "Understanding the Technology and Philosophy of Linux")
 
 __Chapter Objectives__
