@@ -8,9 +8,9 @@ date: 01/05/2015
 # Introduction to the Technology and Philosophy of Linux Part II
 
 ![Understanding the Technology and Philosophy of Linux](images/Chapter-Header/Chapter-01/cautionary.png "Understanding the Technology and Philosophy of Linux")
-> Linux is a complex example of the wisdom of crowds. It's a good example in the sense that it shows you can set people to work in a decentralized way - that is, without anyone really directing their efforts in a particular direction - and still trust that they're going to come up with good answers.
+> *"Linux is a complex example of the wisdom of crowds. It's a good example in the sense that it shows you can set people to work in a decentralized way - that is, without anyone really directing their efforts in a particular direction - and still trust that they're going to come up with good answers."*
 
-James Surowiecki 
+*James Surowiecki*
 
 ## Objectives of this book
 
@@ -40,26 +40,19 @@ At the end of this book students/readers should be able to:
   
 ## Who should read it?
 
-You should.  Any student or reader who has basic knowledge of Linux as an Operating System and its tools who is now 
-looking to move into applciation and operation of multiple Linux systems and services. Or update your skills.
+You should.  Any student or reader who has basic knowledge of Linux tools and the Unix philosophy.  If you are comfortable with commandline and can use a text editor, install packages and know the difference between Operating Systems then this book is for you.  This book will focus on three modules: 
 
-The book contains Chapters which have overarching goals and objectives, followed by an introduction, followed then by lecture material and references with examples followed by review questions and labs.  The review questions will be provided as Blackboard Quizes for autograding too.  All of this will be avalialbe on Github at the books URL [https://github.com/jhajek/Linux-text-book-part-2](https://github.com/jhajek/Linux-text-book-part-2).
+  *  server operating sustems and tools
+  *  server based applications and configuration
+  *  server setup and deployment.
 
-The text is available online - and can be generated into 5 different formats via [Pandoc](http://pandoc.org/)
-
-* docx
-* pdf
-* odt
-* epub
-* html   
+Each chapter has stated goals and objectives, followed by an introduction, followed by lecture material and references with examples followed by review questions and labs.  All content will be available on Github at the book's URL:  [https://github.com/jhajek/Linux-text-book-part-2](https://github.com/jhajek/Linux-text-book-part-2).
 
 Information is in the [README.md](https://github.com/jhajek/Linux-text-book-part-2/blob/master/README.md) https://github.com/jhajek/Linux-text-book-part-2/blob/master/README.md contained in this project
 
-Also plans to have hard boudn editions for sale at Lulu (microprinter)  that is in the works.
-
 ## About the Author
 
-My name is Inigo Montoya...
+My name is Enigo Montoya...
 
 ## Acknowledgements
 
