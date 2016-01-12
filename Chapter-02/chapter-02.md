@@ -23,7 +23,7 @@ __Outcomes__
   
   Free Software was and still is championed by the [FSF](http://fsf.org "FSF") and [Richard Stallman](https://en.wikipedia.org/wiki/Richard_Stallman "RMS").  Opensource software term was initially coined in 1998 by the Open Source Initiative and made famous by [Eric S. Raymond](https://en.wikipedia.org/wiki/Eric_S._Raymond "ESR").     
 
-![*Opensource Licenses*](images/Chapter-01/Licenses/640px-Software_licensing_spectrum.png "Licenses")
+![*Opensource Licenses*](images/Chapter-02/Licenses/640px-Software_licensing_spectrum.png "Licenses") [^3]
 
 ### GPL
 
@@ -40,7 +40,7 @@ The main license that governs both Free and Opensource software (FOSS) is the GP
 
 These licenses are not the only licenses in the FOSS arena.  In addition to GPL, GNU has additional Free and Copy-left licenses.  The first one to mention is the [GNU Lesser General Public License - LGPL](https://en.wikipedia.org/wiki/GNU_Lesser_General_Public_License "LGPL").   This license is usally attributted to software libraries not entire works of software.  The idea behind it is a GPL compatible (but lesser) license that allows libraries to be used with non-GPL software and the library retains the ability to be reverse engineered and debugged but does not take over the entire project license-wise but allows for inclusion of a library into a non-GPL project.  Version 3 of the GPL was released in 2007 along with GPLv3 to show the unity in changes.    
 
-### APL (Apache)
+### ASL (Apache)
 
 
 
@@ -79,4 +79,5 @@ You will encounter these licenses and have to make decisions about them as you u
  
 [^2]: [https://en.wikipedia.org/wiki/The_Free_Software_Definition#The_definition_and_the_Four_Freedoms](https://en.wikipedia.org/wiki/The_Free_Software_Definition#The_definition_and_the_Four_Freedoms "Four Freedoms") 
  
+[^3]: "<a href="https://commons.wikimedia.org/wiki/File:Software_licensing_spectrum.png#/media/File:Software_licensing_spectrum.png">Software licensing spectrum</a>" by David A Wheeler - <a rel="nofollow" class="external free" href="https://www.linuxvoice.com/the-fight-for-freedom/">https://www.linuxvoice.com/the-fight-for-freedom/</a>. Licensed under <a title="Creative Commons Attribution-Share Alike 3.0" href="http://creativecommons.org/licenses/by-sa/3.0">CC BY-SA 3.0</a> via <a href="https://commons.wikimedia.org/wiki/">Commons</a>.
 
