@@ -1,7 +1,7 @@
 # Opensource Server Software 
 ![Measure twice, cut once - *proverb*](images/Chapter-Header/chapter-02/abstraction.png "Understanding the Technology and Philosophy of Linux")
 
-__Chapter 2 Objectives__
+__Chapter Objectives__
 
   *  Define Opensource Server Operating systems and their distinct families
   *  Understand the history of these families
