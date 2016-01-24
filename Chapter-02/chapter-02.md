@@ -1,5 +1,5 @@
-## Chapter 01 - Measure and Troubleshoot Resource Usage
-![Measure twice, cut once - *Proverb*](http://imgs.xkcd.com/comics/abstraction.png "Understanding the Technology and Philosophy of Linux")
+## Chapter 02 - Free and Opensource Server Families
+![Measure twice, cut once - *Proverb*](images/Chapterabstraction.png "Understanding the Technology and Philosophy of Linux")
 
 ### Section 1.1.0 Operating Systems and Capacity Planning
 
