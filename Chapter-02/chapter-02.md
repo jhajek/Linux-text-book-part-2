@@ -20,7 +20,7 @@ At the conclusion of this lecture you will we comfortable in describing and anal
 
 ### GPL
 
-The main license that governs both Free and Opensource software (FOSS) is the GPL [GNU General Public License](https://en.wikipedia.org/wiki/GNU_General_Public_License "GPL") this license created in 1989 by Richard Stallman.  This was a Free Software license that guranteed the 4 software freedoms: [^2]
+The main license that governs both Free and Open Source software (FOSS) is the GPL [GNU General Public License](https://en.wikipedia.org/wiki/GNU_General_Public_License "GPL") this license created in 1989 by Richard Stallman.  This is a Free Software license that guaranteed the 4 software freedoms: [^2]
 
  1)  The freedom to run the program as you wish, for any purpose (freedom 0).
  1)  The freedom to study how the program works, and change it so it does your computing as you wish (freedom 1). Access to the source code is a precondition for this.
