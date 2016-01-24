@@ -12,8 +12,10 @@ date: 01/05/2015
 
 *James Surowiecki*
 
-## Objectives of this book
+## Introduction
 
+  *"In my former book dear Theophilus..."* [^1]  This is the second book in the series of Understanding the Philosophy and Technology of Linux.  The first book sought to teach about the tooling and the reasons why those tools were created and for what purpose.  The second book now seeks to advance your tooling knowledge and bring you into the system adminstration arena--which focuses more on handling the applications and services that will run on those servers.   In the course of this chapter we need to indentify what are the right tools to complete that job.  We will begin with a review of Opensource and Free Software and then proceed to survey the types of operating systems available and their similarities and differences.
+  
 Why undertake another Linux book?  Isn't the world filed with enough documents and books?  On one hand you are correct there are many books in print and available.  Linux/Unix has a unique place in computing.  Entering now it's 4th decade of existance I believe we are facing a new dawn of the use of Linux.  Devices such as Android proliferating [1](http://www.cnet.com/news/android-dominates-81-percent-of-world-smartphone-market/) and companies such as RedHat being a billion dollar company [2](http://arstechnica.com/business/2012/02/how-red-hat-killed-its-core-productand-became-a-billion-dollar-business/).  Linux battles with its heritage of stemming from the Free Software movement of RMS and the OpenSource modern mission os the OSI.  Richard Stallman himself wrote a compelling article entitled ["Why Open Source misses the point of Free Software"](http://www.gnu.org/philosophy/open-source-misses-the-point.html).  
 
 On the other hand you have the Debian [*"Civil War"*](http://debianfork.org/) in regards to Systemd and its integration, some would say take over of Linux.  Are the Devuan developers who split from Debian just nostalgists harkening for the halcyon days of early 2000's Linux wild west days?  Or do they have legitamite concerns (technical and ethical) about the direction of Linux?   
@@ -96,10 +98,10 @@ The site has a television like quality but all the shows are freely avaliable wi
 
 ### Good old mailing lists
 
-  Find your favorite opensource project and join their mailing list and get a dailey digest of the communication going on.  You can learn much just by being a reader.
+  Find your favorite Open Source project and join their mailing list and get a daily digest of the communication going on.  You can learn much just by being a reader.
    
 ## Conclusion
 
 You are ready to begin.  Hit Any Key to Continue...
 
-
+[^1]: Acts of the Apostles 1:1 NIV 
