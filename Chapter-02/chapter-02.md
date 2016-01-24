@@ -14,7 +14,7 @@ At the conclusion of this lecture you will we comfortable in describing and anal
 
   The difference is nuonced but can be summed up in one sentence.  Free Software is a moral/societal issue protecting the freedom of users/communities to freely (not cost) use, examine, modify, and share source code.  Opensource software is a transparent development model that promotes its superior methodology and its ability to prevent vendor lockin, based on the code being open and available under a license.  One is moral, one is developmental focused.  
   
-  Free Software was and still is championed by the [FSF](http://fsf.org "FSF") and [Richard Stallman](https://en.wikipedia.org/wiki/Richard_Stallman "RMS").  Opensource software term was initially coined in 1998 by the Open Source Initiative and made famous by [Eric S. Raymond](https://en.wikipedia.org/wiki/Eric_S._Raymond "ESR").     
+  Free Software was and still is championed by the [FSF](http://fsf.org "FSF") and [Richard Stallman](https://en.wikipedia.org/wiki/Richard_Stallman "RMS").  Opensource software term was initially coined in 1998 by the Open Source Initiative and made famous by [Eric S. Raymond](https://en.wikipedia.org/wiki/Eric_S._Raymond "ESR".     
 
 ![*Opensource Licenses*](images/Chapter-02/Licenses/640px-Software_licensing_spectrum.png "Licenses") [^3]
 
