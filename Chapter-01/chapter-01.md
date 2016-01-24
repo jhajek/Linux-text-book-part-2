@@ -8,9 +8,9 @@ date: 01/05/2015
 # Introduction to the Technology and Philosophy of Linux Part II
 
 ![Understanding the Technology and Philosophy of Linux](images/Chapter-Header/Chapter-01/cautionary.png "Understanding the Technology and Philosophy of Linux")
-> Linux is a complex example of the wisdom of crowds. It's a good example in the sense that it shows you can set people to work in a decentralized way - that is, without anyone really directing their efforts in a particular direction - and still trust that they're going to come up with good answers.
+> *"Linux is a complex example of the wisdom of crowds. It's a good example in the sense that it shows you can set people to work in a decentralized way - that is, without anyone really directing their efforts in a particular direction - and still trust that they're going to come up with good answers."*
 
-James Surowiecki 
+*James Surowiecki*
 
 ## Objectives of this book
 
@@ -40,26 +40,19 @@ At the end of this book students/readers should be able to:
   
 ## Who should read it?
 
-You should.  Any student or reader who has basic knowledge of Linux as an Operating System and its tools who is now 
-looking to move into applciation and operation of multiple Linux systems and services. Or update your skills.
+You should.  Any student or reader who has basic knowledge of Linux tools and the Unix philosophy.  If you are comfortable with commandline and can use a text editor, install packages and know the difference between Operating Systems then this book is for you.  This book will focus on three modules: 
 
-The book contains Chapters which have overarching goals and objectives, followed by an introduction, followed then by lecture material and references with examples followed by review questions and labs.  The review questions will be provided as Blackboard Quizes for autograding too.  All of this will be avalialbe on Github at the books URL [https://github.com/jhajek/Linux-text-book-part-2](https://github.com/jhajek/Linux-text-book-part-2).
+  *  server operating sustems and tools
+  *  server based applications and configuration
+  *  server setup and deployment.
 
-The text is available online - and can be generated into 5 different formats via [Pandoc](http://pandoc.org/)
-
-* docx
-* pdf
-* odt
-* epub
-* html   
+Each chapter has stated goals and objectives, followed by an introduction, followed by lecture material and references with examples followed by review questions and labs.  All content will be available on Github at the book's URL:  [https://github.com/jhajek/Linux-text-book-part-2](https://github.com/jhajek/Linux-text-book-part-2).
 
 Information is in the [README.md](https://github.com/jhajek/Linux-text-book-part-2/blob/master/README.md) https://github.com/jhajek/Linux-text-book-part-2/blob/master/README.md contained in this project
 
-Also plans to have hard boudn editions for sale at Lulu (microprinter)  that is in the works.
-
 ## About the Author
 
-My name is Inigo Montoya...
+My name is Enigo Montoya...
 
 ## Acknowledgements
 
@@ -73,11 +66,11 @@ Professor Sam Shamsuddin who taught me its not ee-tee-cee ef-es-tab but really e
 
 ## Environment setup for this book
 
-This book assumes that you have access to a server edition of Linux.  I will be referencing instances using the VirtualBox Platform, but all of this work can be done on Hyper-V, VmWare, Parallels, or any other vm software you have, as well as AWS, Azure, Digital Ocean, Rackspace, and any other cloud service you can find (charges may apply)  Finally if you have an old PC laying around you can install these operating systems natively and all these exercises will work well.  
+This book assumes that you have access to a server edition of Linux.  I will be referencing instances using the VirtualBox Platform, but all of this work can be done on Hyper-V, VmWare, Parallels, or any other vm software you have, as well as AWS, Azure, Digital Ocean, Rackspace, or any other cloud service you can find (charges may apply).  Finally if you have an old PC laying around you can install these operating systems natively and all these exercises will work well.  
 
 ## Resources for you beyond this book  
 
-  There are many resources out there on the internet.  You should go beyond what just your teacher tells you or expect that they will be like Master Yoda and just dump all knowledge into you.  Though a professor or a mentor is a great place to start, you need to do some work finding communities and resources on the Internet you can use to put yourself ahead of the competition.  Here is a short list that helped me greatly and are considered industry wide tools and communities you can participate in at any level.
+  There are many resources out there on the internet.  You should go beyond expecting your instructor to tell you everything or expect that they are like Master Yoda and just dump all knowledge into you.  Though a professor or a mentor is a great place to start, you need to do some work finding communities and resources on the internet you can use to put yourself ahead of the competition.  Here is a short list that helped me greatly and are considered industry wide tools and communities you can participate in at any level.
   
 ### [Twit.tv](http://www.twit.tv) 
 
@@ -103,11 +96,10 @@ The site has a television like quality but all the shows are freely avaliable wi
 
 ### Good old mailing lists
 
-  Find your favorite opensource project and join their mailing list.  You can learn much just by being a reader.
+  Find your favorite opensource project and join their mailing list and get a dailey digest of the communication going on.  You can learn much just by being a reader.
    
-### More to come
-
 ## Conclusion
 
-You are ready to begin.  Hit Enter to Continue...
+You are ready to begin.  Hit Any Key to Continue...
+
 
