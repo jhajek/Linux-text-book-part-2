@@ -35,17 +35,19 @@ The tipping point one would argue was when one Richard Stallman, a programmer em
 
 These events, combined with AT&T closing the access to Unix source code, in late 1983/early 1984, lead to his writing of the [GNU Manifesto](https://en.wikipedia.org/wiki/GNU_Manifesto "GNU Manifesto"), which contained two parts.  The first part was his argument on how free software, according to the 4 freedoms defined above, would benefit nearly every user, consumer, and producer.  The second part was mainly about rebutting objections to the idea of Free Software.  To carry out this goal Richard Stallman and a few like-minded people set about to completely reverse engineer the entire UNIX operating system.   They wrote GCC - a C compiler, Emacs - an editor, Bash - a command line shell, and by 1990 all the other necessary tools to create a completely free operating system. The name GNU came from a *clever hack* and a recursive acronym meaning, "GNU is Not Unix." It was a Unix-like operating system but completely free of proprietary licenses.  
 
-![*GNU logo is a GNU, the animal*](images/Chapter-02/Licenses/491px-Heckert_GNU_white.png "GNU")
+![*GNU logo is a GNU, the animal*](images/Chapter-02/Licenses/491px-Heckert_GNU_white.png "GNU")[^8]
 
 #### Free Software Foundation 
 
-All of these projects became part of the GNU project -- hosted at [http://gnu.org](http://gnu.org "GNU").  The issue of who these programs belonged to from a copyright perspective came up shortly after the project began.  This lead to the creation of the __FSF__--[Free Software Foundation](http://www.fsf.org "FSF") in 1985.  The FSF was the entity that received and owned the copyright for all of the GNU project's software.  The FSF today serves to enforce Free Software license compliance as well as educating and advocating for Free Software usage.
+All of these projects became part of the GNU project -- hosted at [http://gnu.org](http://gnu.org "GNU").  The issue of who these programs belonged to from a copyright perspective came up shortly after the project began.  This lead to the creation of the __FSF__--[Free Software Foundation](http://www.fsf.org "FSF") in 1985.  The FSF was the entity that received and owned the copyright for all of the GNU project's software.  The FSF today serves to enforce Free Software license compliance as well as educating and advocating for Free Software usage.  The funding that was supplied by donors to the FSF until the mid 1990s was primarily for developers to write Free Software replacements for propriatery software.  Since then funding has been used for education and license enforcement.
 
-![*Free Software Foundation Logo*](
+![*Free Software Foundation Logo*](images/Chapter-02/Licenses/Free_Software_Foundation_logo_and_wordmark.svg.png "FSF")
 
 ### GPL 
 
 In addition to having a foundation that owns the copyright for projects, a legally enforceable license called the [GNU General Public License](https://en.wikipedia.org/wiki/GNU_General_Public_License "GPL") or GPL was created and released in February of 1989.  The GPL was the enshrinement of the four software freedoms into a user license.  An additional twist (because all hackers like clever puns) the license was called--*copyleft*, and not copyright which enshrined the right of source, and modified works to be distributed with attribution.  The FSF will differentiate between a __Copyleft__ license and a __permissive__ software license. 
+
+![*GPLv3*](images/Chapter-02/Licenses/gplv3-127x51.png "GPL Logo")
 
 #### GPLv2
 
@@ -139,9 +141,7 @@ You will encounter these licenses and have to make decisions about them as you u
 
 [^7]: [http://xkcd.com/1508/](http://xkcd.com/1508/ "GNU HURD")
 
-
-
-http://xkcd.com/1508/
+[^8]: [https://en.wikipedia.org/wiki/File:Heckert_GNU_white.svg](https://en.wikipedia.org/wiki/File:Heckert_GNU_white.svg "GNU White")
 
 
 
