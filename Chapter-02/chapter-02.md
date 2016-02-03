@@ -31,9 +31,17 @@ The company that followed this model to its fullest was Microsoft, who we can cr
     
 The tipping point one would argue was when one Richard Stallman, a programmer employed at the MIT Artificial Intelligence Lab was stymied by a network printer of all things.   Previously the labs printer had been networked and located on upper floors of their lab--requiring a far walk to get to the printer.  There was no feedback mechanisms about printer status like we have now on our PCs.  Stallman had modified the source code software of the printer to add this feature--but the next software revision of the printer locked him out from adding this feature as well as the printer company had no way/desire to accept his freely given code to improve/upgrade the model's features.   This struck him as perplexing as he had wanted to genuinely help and improve things but could not.
 
-These events, combined with AT&T closing the access to Unix source code, in late 1983/early 1984, lead to his writing of the [GNU Manifesto](https://en.wikipedia.org/wiki/GNU_Manifesto "GNU Manifesto"), which contained two parts.  The first part was his argument on how free software, according to the 4 freedoms defined above, would benefit nearly every user, consumer, and producer.  The second part was mainly about rebutting objections to the idea of Free Software.  To carry out this goal Richard Stallman and a few like-minded people set about to completely reverse engineer the entire UNIX operating system.   They wrote GCC - a C compiler, Emacs - an editor, Bash - a command line shell, and by 1990 all the other necessary tools to create a completely free operating system.  
+#### GNU
+
+These events, combined with AT&T closing the access to Unix source code, in late 1983/early 1984, lead to his writing of the [GNU Manifesto](https://en.wikipedia.org/wiki/GNU_Manifesto "GNU Manifesto"), which contained two parts.  The first part was his argument on how free software, according to the 4 freedoms defined above, would benefit nearly every user, consumer, and producer.  The second part was mainly about rebutting objections to the idea of Free Software.  To carry out this goal Richard Stallman and a few like-minded people set about to completely reverse engineer the entire UNIX operating system.   They wrote GCC - a C compiler, Emacs - an editor, Bash - a command line shell, and by 1990 all the other necessary tools to create a completely free operating system. The name GNU came from a *clever hack* and a recursive acronym meaning, "GNU is Not Unix." It was a Unix-like operating system but completely free of proprietary licenses.  
+
+![*GNU logo is a GNU, the animal*](images/Chapter-02/Licenses/491px-Heckert_GNU_white.png "GNU")
+
+#### Free Software Foundation 
 
 All of these projects became part of the GNU project -- hosted at [http://gnu.org](http://gnu.org "GNU").  The issue of who these programs belonged to from a copyright perspective came up shortly after the project began.  This lead to the creation of the __FSF__--[Free Software Foundation](http://www.fsf.org "FSF") in 1985.  The FSF was the entity that received and owned the copyright for all of the GNU project's software.  The FSF today serves to enforce Free Software license compliance as well as educating and advocating for Free Software usage.
+
+![*Free Software Foundation Logo*](
 
 ### GPL 
 
