@@ -39,7 +39,14 @@ All of these projects became part of the GNU project -- hosted at [http://gnu.or
 
 In addition to having a foundation that owns the copyright for projects, a legally enforceable license called the [GNU General Public License](https://en.wikipedia.org/wiki/GNU_General_Public_License "GPL") or GPL was created and released in February of 1989.  The GPL was the enshrinement of the four software freedoms into a user license.  An additional twist (because all hackers like clever puns) the license was called--*copyleft*, and not copyright which enshrined the right of source, and modified works to be distributed with attribution.  The FSF will differentiate between a __Copyleft__ license and a __permissive__ software license. 
 
-The GPL license underwent 
+#### GPLv2
+
+As time went and Free Software began to be adopted in the early 1990's on, new challenges to Free SoftwareThe GPL license needed revisions and updates.  Accroding this quote: 
+
+> * According to Richard Stallman, the major change in GPLv2 was the "Liberty or Death" clause, as he calls it – Section 7. This section says that if a license imposes restrictions that prevent distributing GPL-covered software in a way that respects other users' freedom (for example, if a legal ruling states that someone may only distribute the software in binary form), the developer may not distribute it at all. The hope is, that this makes it less tempting for companies to use patent threats to require fees from free software developers.*[^5]
+
+
+### GPL and FSF commentary
 
 ![*Life imitates art* http://blog.xkcd.com/2007/04/19/life-imitates-xkcd-part-ii-richard-stallman/](images/Chapter-02/People/stallman-katana.jpg "RMS Katana")
 
@@ -107,3 +114,6 @@ You will encounter these licenses and have to make decisions about them as you u
 [^3]: "<a href="https://commons.wikimedia.org/wiki/File:Software_licensing_spectrum.png#/media/File:Software_licensing_spectrum.png">Software licensing spectrum</a>" by David A Wheeler - <a rel="nofollow" class="external free" href="https://www.linuxvoice.com/the-fight-for-freedom/">https://www.linuxvoice.com/the-fight-for-freedom/</a>. Licensed under <a title="Creative Commons Attribution-Share Alike 3.0" href="http://creativecommons.org/licenses/by-sa/3.0">CC BY-SA 3.0</a> via <a href="https://commons.wikimedia.org/wiki/">Commons</a>.
 
 [^4]: [http://www.brainyquote.com/quotes/quotes/b/billgates626110.html?src=t_open_source](http://www.brainyquote.com/quotes/quotes/b/billgates626110.html?src=t_open_source)
+
+[^5]: [https://en.wikipedia.org/wiki/GNU_General_Public_License#Version_2](https://en.wikipedia.org/wiki/GNU_General_Public_License#Version_2 "GPLv2")
+
