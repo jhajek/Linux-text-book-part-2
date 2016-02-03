@@ -57,25 +57,37 @@ As time went and Free Software began to be adopted in the early 1990's on, new c
 
 The GPLv2 was released at a curious point in the history of Free and Open Source software.  The GNU project in a mere 6 years reverse engineered the entire Unix operating system and made free components equal to or superior to the proprietary AT&T source code. The only component the GNU project was missing was an operating system kernel.  They had all the tools but not the key part to drive the operating system.  If you remember a kernel is an abstraction layer that sits in between the hardware and user-land portion of the operating system and translates system calls to direct hardware calls.  The situation could be compared to a luxury car that has no engine--alomst done but missing the most critical part.  
 
-At the end of 1991/early 1992 a Finnish grad student named Linus Torvalds came along.  He had enjoyed using UNIX on various machines in the computer lab at his university, but prefered to be able to use it on his own 386 Intel PC.  He started out on a project to create a Unix inspired kernel that would run on his own hardware with his own improvements added on.   This gave birth to the Linux kernel.  Now the only problem Linus and his nacent Linux kernel had was that it had the opposite problem, it was an engine in need of a car body.  Hence a perfect match.   Linus and other like minded hackers added the GNU tools, which were all licensed under GPLv2 now, to his kernel and a new operating system was born.  Looking back the move seems pure genious as Linus licensed his kernel under the new GPLv2 license because he valued the fact that people could share code, fork the code, and let the *users* decide what features were best.  
+At the end of 1991/early 1992 a Finnish grad student named Linus Torvalds came along.  He had enjoyed using UNIX on various machines in the computer lab at his university, but prefered to be able to use it on his own 386 Intel PC.  He started out on a project to create a Unix inspired kernel that would run on his own hardware with his own improvements added on.   This gave birth to the Linux kernel.  Now the only problem Linus and his nascent Linux kernel had was that it had the opposite problem, it was an engine in need of a car body.  Hence a perfect match.   Linus and other like-minded hackers added the GNU tools, which were all licensed under GPLv2 now, to his kernel and a new operating system was born.  Looking back the move seems pure genius as Linus licensed his kernel under the new GPLv2 license because he valued the fact that people could share code, fork the code, and let the *users* decide what features were best.  
 
 Helping this situation out was in 1994, AT&T took the BSD project to court in a copyright infringement case that they were using copyrighted AT&T Unix code without proper licensing or payment.  This froze BSD development for 2 years and the majority of those developers flowed into the young Linux project because of its protections provided by GPLv2.  Linux never looked back.  What should have been a complete disaster, creating a complete operating system, under a Free Software license, turned out to be an amazing experiment in democracy--aided by Linus as the *BDFL*, (Benevolent Dictator for Life).
 
-To Richard Stallman, disappointed that his HURD kernel had not reached the maturity of the Linux kernel, admitted that the new system, born of GNU and the Linux kernel, should be called GNU/Linux.  Stallman saw this as the fulfillment of the GNU mission and the completion of it to make a completely free operating system, albeit not completely under his terms.  The FSF and Stallman insist on the proper naming as GNU/Linux stating that dropping the GNU portion robs people of the knowledge that Free Software made this a possibility and minimizes their contribution and hard work, but Linus Torvalds states a different opinion: 
+To Richard Stallman, disappointed that his [GNU HURD](https://en.wikipedia.org/wiki/GNU_Hurd "GNU HURD") kernel had not reached the maturity of the Linux kernel, admitted that the new system, born of GNU and the Linux kernel, should be called GNU/Linux.  Stallman saw this as the fulfillment of the GNU mission and the completion of it to make a completely free operating system, albeit not completely under his terms.  The FSF and Stallman insist on the proper naming as GNU/Linux stating that dropping the GNU portion robs people of the knowledge that Free Software made this a possibility and minimizes their contribution and hard work, but Linus Torvalds states a different opinion: 
 
 > *"Well, I think it's justified, but it's justified if you actually make a GNU distribution of Linux ... the same way that I think that "Red Hat Linux" is fine, or "SuSE Linux" or "Debian Linux", because if you actually make your own distribution of Linux, you get to name the thing, but calling Linux in general "GNU Linux" I think is just ridiculous"* [^9]
 
-There is an entire [Wikipedia article](https://en.wikipedia.org/wiki/GNU/Linux_naming_controversy "Controversy") relating to history of the naming convention. 
+There is an entire [Wikipedia article](https://en.wikipedia.org/wiki/GNU/Linux_naming_controversy "Controversy") relating to history of the naming convention. ]\
+
+#### GPLv3
+
+ The GPLv3 was released in 2007 in order to address some of the perceived lack of commercial protections in the GPLv2.  Companies had found clever ways to bend the intent of GPLv2 license and yet not legally violate the license. This led Richard Stallman to introduce certain articles and sub-sections in GPLv3 in order to specifically prohibit these practices.  This alienated those who saw GPLv2 as good enough and did not want a more restrictive license implemented in the case of GPLv3.  Linus Torvalds and the Linux kernel were expressly mentioned to be staying at GPLv2 and disagrees that the GPLv3 destroys everything that the GPLv2 stood for.  Linus spoke to this here: [http://youtube.com/watch?v=bw58LZTuZjA](http://youtube.com/watch?v=bw58LZTuZjA "Linus") [http://youtube.com/watch?v=PaKIZ7gJIRU](http://youtube.com/watch?v=PaKIZ7gJIRU "GPLv3")
+ 
+### LGPL
+
+These licenses are not the only licenses in the FOSS arena.  In addition to GPL, GNU has additional Free and Copy-left licenses.  The first one to mention is the [GNU Lesser General Public License - LGPL](https://en.wikipedia.org/wiki/GNU_Lesser_General_Public_License "LGPL").   This license is usually attributed to software libraries not entire works of software.  The idea behind it is a GPL compatible (but lesser) license that allows libraries to be used with non-GPL software and the library retains the ability to be reverse engineered and debugged but does not take over the entire project license-wise but allows for inclusion of a library into a non-GPL project.  Version 3 of the GPL was released in 2007 along with GPLv3 to show the unity in changes.   
+
+![*LGPLv3*](images/Chapter-02/Licenses/lgplv3-147x51.png "LGPLv3")
+
+\newpage
 
 ### GPL and FSF commentary
 
 ![*Later we'll dress up like Big Oil thugs and jump Ralph Nader.*](images/Chapter-02/Comics/open_source.png "Open Source")[^6]
+
+\newpage
+
 ![*One of the survivors, poking around in the ruins with the point of a spear, uncovers a singed photo of Richard Stallman. They stare in silence. "This" one of them finally says, "This is a man who BELIEVED in something."*](images/Chapter-02/Comics/operating_systems.png "HURD")[^7]
 
-
-
-
-
+\newpage
 
 ![*Life imitates art* http://blog.xkcd.com/2007/04/19/life-imitates-xkcd-part-ii-richard-stallman/](images/Chapter-02/People/stallman-katana.jpg "RMS Katana")
 
@@ -83,7 +95,7 @@ There is an entire [Wikipedia article](https://en.wikipedia.org/wiki/GNU/Linux_n
 
 ### Open Source Software and Licenses
     
-  Free Software was and still is championed by the [FSF](http://fsf.org "FSF") and [Richard Stallman](https://en.wikipedia.org/wiki/Richard_Stallman "RMS").  Opensource software term was initially coined in 1998 by the Open Source Initiative and made famous by [Eric S. Raymond](https://en.wikipedia.org/wiki/Eric_S._Raymond "ESR".     
+ Opensource software term was initially coined in 1998 by the Open Source Initiative and made famous by [Eric S. Raymond](https://en.wikipedia.org/wiki/Eric_S._Raymond "ESR".     
 
 ![*Opensource Licenses*](images/Chapter-02/Licenses/640px-Software_licensing_spectrum.png "Licenses") [^3]
 
@@ -98,11 +110,7 @@ The main license that governs both Free and Open Source software (FOSS) is the G
 
  The [GNU General Public License](http://www.gnu.org/licenses/quick-guide-gplv3.html "GPLv3") or known as GPL comes in two flavors, GPLv2 and GPLv3.  GPLv2 was released in 1991 and the opensource license the Linux kernel is mostly released under.  Some would say that this license at the right time was able to "launch" Open Source into the mainstream.  This is also a point of contention with Open Source using the *law* of Free Software but forgetting the spirit so to speak.  
  
- The GPLv3 was released in 2007 in order to address some of the perceived lack of commercial protections in the GPLv2.  Companies had found clever ways to bend the intent of GPLv2 license and yet not legally violate the license. This led Richard Stallman to introduce certain articles and sub-sections in GPLv3 in order to specifically prohibit these practices.  This alienated those who saw GPLv2 as good enough and did not want a more restrictive license implemented in the case of GPLv3.  Linus Torvalds and the Linux kernel were expressly mentioned to be staying at GPLv2 and disagrees that the GPLv3 destroys everything that the GPLv2 stood for.  Linus spoke to this here: [http://youtube.com/watch?v=bw58LZTuZjA](http://youtube.com/watch?v=bw58LZTuZjA "Linus") [http://youtube.com/watch?v=PaKIZ7gJIRU](http://youtube.com/watch?v=PaKIZ7gJIRU "GPLv3")
  
-### LGPL
-
-These licenses are not the only licenses in the FOSS arena.  In addition to GPL, GNU has additional Free and Copy-left licenses.  The first one to mention is the [GNU Lesser General Public License - LGPL](https://en.wikipedia.org/wiki/GNU_Lesser_General_Public_License "LGPL").   This license is usually attributed to software libraries not entire works of software.  The idea behind it is a GPL compatible (but lesser) license that allows libraries to be used with non-GPL software and the library retains the ability to be reverse engineered and debugged but does not take over the entire project license-wise but allows for inclusion of a library into a non-GPL project.  Version 3 of the GPL was released in 2007 along with GPLv3 to show the unity in changes.    
 
 ### ASL (Apache)
 
