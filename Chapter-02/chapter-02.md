@@ -29,7 +29,7 @@ Looking back at the 1960s and 1970s as software was developed initially programm
 
 The company that followed this model to its fullest was Microsoft, who we can credit for creating the model of proprietary software, in the sense that their source code was not available for the programs that you purchased from them.  
     
-The tipping point one would argue was when one Ricahrd Stallman, a programmer employed at the MIT Artificial Intelligence Lab was stymied by a network printer of all things.   Previously the labs printer had been networked and located on upper floors of their lab--requiring a far walk to get to the printer.  There was no feedback mechanisms about printer status like we have now on our PCs.  Stallman had modified the source code software of the printer to add this feature--but the next software revision of the printer locked him out from adding this feature as well as the printer company had no way/desire to accept his freely given code to improve/upgrade the model's features.   This struck him as perplexing as he had wanted to genuinely help and improve things but could not.
+The tipping point one would argue was when one Richard Stallman, a programmer employed at the MIT Artificial Intelligence Lab was stymied by a network printer of all things.   Previously the labs printer had been networked and located on upper floors of their lab--requiring a far walk to get to the printer.  There was no feedback mechanisms about printer status like we have now on our PCs.  Stallman had modified the source code software of the printer to add this feature--but the next software revision of the printer locked him out from adding this feature as well as the printer company had no way/desire to accept his freely given code to improve/upgrade the model's features.   This struck him as perplexing as he had wanted to genuinely help and improve things but could not.
 
 These events, combined with AT&T closing the access to Unix source code, in late 1983/early 1984, lead to his writing of the [GNU Manifesto](https://en.wikipedia.org/wiki/GNU_Manifesto "GNU Manifesto"), which contained two parts.  The first part was his argument on how free software, according to the 4 freedoms defined above, would benefit nearly every user, consumer, and producer.  The second part was mainly about rebutting objections to the idea of Free Software.  To carry out this goal Richard Stallman and a few like-minded people set about to completely reverse engineer the entire UNIX operating system.   They wrote GCC - a C compiler, Emacs - an editor, Bash - a command line shell, and by 1990 all the other necessary tools to create a completely free operating system.  
 
@@ -46,7 +46,17 @@ As time went and Free Software began to be adopted in the early 1990's on, new c
 > * According to Richard Stallman, the major change in GPLv2 was the "Liberty or Death" clause, as he calls it – Section 7. This section says that if a license imposes restrictions that prevent distributing GPL-covered software in a way that respects other users' freedom (for example, if a legal ruling states that someone may only distribute the software in binary form), the developer may not distribute it at all. The hope is, that this makes it less tempting for companies to use patent threats to require fees from free software developers.*[^5]
 
 
+
+
 ### GPL and FSF commentary
+
+![*Later we'll dress up like Big Oil thugs and jump Ralph Nader.*](images/Chapter-02/Comics/open_source.png "Open Source")[^6]
+![*One of the survivors, poking around in the ruins with the point of a spear, uncovers a singed photo of Richard Stallman. They stare in silence. "This" one of them finally says, "This is a man who BELIEVED in something."*](images/Chapter-02/Comics/operating_systems.png "HURD")[^7]
+
+
+
+
+
 
 ![*Life imitates art* http://blog.xkcd.com/2007/04/19/life-imitates-xkcd-part-ii-richard-stallman/](images/Chapter-02/People/stallman-katana.jpg "RMS Katana")
 
@@ -116,4 +126,14 @@ You will encounter these licenses and have to make decisions about them as you u
 [^4]: [http://www.brainyquote.com/quotes/quotes/b/billgates626110.html?src=t_open_source](http://www.brainyquote.com/quotes/quotes/b/billgates626110.html?src=t_open_source)
 
 [^5]: [https://en.wikipedia.org/wiki/GNU_General_Public_License#Version_2](https://en.wikipedia.org/wiki/GNU_General_Public_License#Version_2 "GPLv2")
+
+[^6]: [http://www.xkcd.com/225/](http://www.xkcd.com/225/ "Open Source")
+
+[^7]: [http://xkcd.com/1508/](http://xkcd.com/1508/ "GNU HURD")
+
+
+
+http://xkcd.com/1508/
+
+
 
