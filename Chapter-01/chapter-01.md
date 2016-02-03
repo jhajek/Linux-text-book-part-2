@@ -100,6 +100,13 @@ The site has a television like quality but all the shows are freely avaliable wi
 
   Find your favorite Open Source project and join their mailing list and get a daily digest of the communication going on.  You can learn much just by being a reader.
    
+## Microsoft Sway Presentations
+
+Chapter 02 - [https://sway.com/M4f1DBSYxrW47eVb](https://sway.com/M4f1DBSYxrW47eVb "Chapter 2")
+Chapter 03 - [https://sway.com/egsDPhcU1SVORziU](https://sway.com/egsDPhcU1SVORziU "Chapter 3")
+Chapter 04 - [https://sway.com/J1Vb2xgB1IzlreVG](https://sway.com/J1Vb2xgB1IzlreVG "Chapter 4")
+Chapter 05 - [https://sway.com/AeJeXAD4lmrAQAAH](https://sway.com/AeJeXAD4lmrAQAAH "Chapter 5")   
+   
 ## Conclusion
 
 You are ready to begin.  Hit Any Key to Continue...
