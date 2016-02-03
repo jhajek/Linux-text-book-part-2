@@ -51,12 +51,21 @@ In addition to having a foundation that owns the copyright for projects, a legal
 
 #### GPLv2
 
-As time went and Free Software began to be adopted in the early 1990's on, new challenges to Free SoftwareThe GPL license needed revisions and updates.  Accroding this quote: 
+As time went and Free Software began to be adopted in the early 1990's on, new challenges to Free Software the GPL needed revisions and updates.  According this quote: 
 
 > * According to Richard Stallman, the major change in GPLv2 was the "Liberty or Death" clause, as he calls it – Section 7. This section says that if a license imposes restrictions that prevent distributing GPL-covered software in a way that respects other users' freedom (for example, if a legal ruling states that someone may only distribute the software in binary form), the developer may not distribute it at all. The hope is, that this makes it less tempting for companies to use patent threats to require fees from free software developers.*[^5]
 
+The GPLv2 was released at a curious point in the history of Free and Open Source software.  The GNU project in a mere 6 years reverse engineered the entire Unix operating system and made free components equal to or superior to the proprietary AT&T source code. The only component the GNU project was missing was an operating system kernel.  They had all the tools but not the key part to drive the operating system.  If you remember a kernel is an abstraction layer that sits in between the hardware and user-land portion of the operating system and translates system calls to direct hardware calls.  The situation could be compared to a luxury car that has no engine--alomst done but missing the most critical part.  
 
+At the end of 1991/early 1992 a Finnish grad student named Linus Torvalds came along.  He had enjoyed using UNIX on various machines in the computer lab at his university, but prefered to be able to use it on his own 386 Intel PC.  He started out on a project to create a Unix inspired kernel that would run on his own hardware with his own improvements added on.   This gave birth to the Linux kernel.  Now the only problem Linus and his nacent Linux kernel had was that it had the opposite problem, it was an engine in need of a car body.  Hence a perfect match.   Linus and other like minded hackers added the GNU tools, which were all licensed under GPLv2 now, to his kernel and a new operating system was born.  Looking back the move seems pure genious as Linus licensed his kernel under the new GPLv2 license because he valued the fact that people could share code, fork the code, and let the *users* decide what features were best.  
 
+Helping this situation out was in 1994, AT&T took the BSD project to court in a copyright infringement case that they were using copyrighted AT&T Unix code without proper licensing or payment.  This froze BSD development for 2 years and the majority of those developers flowed into the young Linux project because of its protections provided by GPLv2.  Linux never looked back.  What should have been a complete disaster, creating a complete operating system, under a Free Software license, turned out to be an amazing experiment in democracy--aided by Linus as the *BDFL*, (Benevolent Dictator for Life).
+
+To Richard Stallman, disappointed that his HURD kernel had not reached the maturity of the Linux kernel, admitted that the new system, born of GNU and the Linux kernel, should be called GNU/Linux.  Stallman saw this as the fulfillment of the GNU mission and the completion of it to make a completely free operating system, albeit not completely under his terms.  The FSF and Stallman insist on the proper naming as GNU/Linux stating that dropping the GNU portion robs people of the knowledge that Free Software made this a possibility and minimizes their contribution and hard work, but Linus Torvalds states a different opinion: 
+
+> *"Well, I think it's justified, but it's justified if you actually make a GNU distribution of Linux ... the same way that I think that "Red Hat Linux" is fine, or "SuSE Linux" or "Debian Linux", because if you actually make your own distribution of Linux, you get to name the thing, but calling Linux in general "GNU Linux" I think is just ridiculous"* [^9]
+
+There is an entire [Wikipedia article](https://en.wikipedia.org/wiki/GNU/Linux_naming_controversy "Controversy") relating to history of the naming convention. 
 
 ### GPL and FSF commentary
 
@@ -143,5 +152,6 @@ You will encounter these licenses and have to make decisions about them as you u
 
 [^8]: [https://en.wikipedia.org/wiki/File:Heckert_GNU_white.svg](https://en.wikipedia.org/wiki/File:Heckert_GNU_white.svg "GNU White")
 
+[^9]: [https://en.wikipedia.org/wiki/GNU/Linux_naming_controversy#Opinions_supporting_.22Linux.22](https://en.wikipedia.org/wiki/GNU/Linux_naming_controversy#Opinions_supporting_.22Linux.22 "Controversy")
 
 
