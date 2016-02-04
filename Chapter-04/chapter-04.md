@@ -1,9 +1,10 @@
-# 
-![Understanding the Technology and Philosophy of Unix/Linux]( http://imgs.xkcd.com/comics/surgery.png "Understanding the Technology and Philosophy of Unix/Linux")
+# Linux Networking and SSH
+
+![Understanding the Technology and Philosophy of Unix/Linux](images/Chapter-Header/Chapter-05/network.png "Understanding the Technology and Philosophy of Unix/Linux")
 
 __Chapter Objectives__
 
-  *
+  *  
   *
   *
   *
