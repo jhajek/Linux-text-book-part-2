@@ -1,6 +1,5 @@
 # Free and Open Source Licensing
-![*Certainly there's a phenomenon around open source. You know free software will be a vibrant area. There will be a lot of neat things that get done there. - Bill Gates*]
-](images/Chapter-Header/chapter-02/abstraction.png "Understanding the Technology and Philosophy of Linux")[^4]
+![*Certainly there's a phenomenon around open source. You know free software will be a vibrant area. There will be a lot of neat things that get done there. - Bill Gates*](images/Chapter-Header/chapter-02/abstraction.png "Understanding the Technology and Philosophy of Linux")[^4]
 
 __Chapter Objectives__
 

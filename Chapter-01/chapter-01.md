@@ -7,8 +7,9 @@ date: 01/05/2015
 
 # Introduction to the Technology and Philosophy of Linux Part II
 
-![Understanding the Technology and Philosophy of Linux](images/Chapter-Header/Chapter-01/cautionary.png "Understanding the Technology and Philosophy of Linux")
-> *"Linux is a complex example of the wisdom of crowds. It's a good example in the sense that it shows you can set people to work in a decentralized way - that is, without anyone really directing their efforts in a particular direction - and still trust that they're going to come up with good answers."*
+![*Understanding the Technology and Philosophy of Linux*](images/Chapter-Header/Chapter-01/cautionary.png "Understanding the Technology and Philosophy of Linux")
+
+>  *"Linux is a complex example of the wisdom of crowds. It's a good example in the sense that it shows you can set people to work in a decentralized way - that is, without anyone really directing their efforts in a particular direction - and still trust that they're going to come up with good answers."*
 
 *James Surowiecki*
 

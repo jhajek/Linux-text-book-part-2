@@ -1,7 +1,7 @@
 # Licenses
 
 ## GNU Free Document License 1.3 
-
+<pre>
                 GNU Free Documentation License
                  Version 1.3, 3 November 2008
 
@@ -1132,8 +1132,11 @@ the library.  If this is what you want to do, use the GNU Lesser General
 Public License instead of this License.  But first, please read
 <http://www.gnu.org/philosophy/why-not-lgpl.html>.
 
+</pre>
+
 ## Creative Commons Attribution-ShareAlike 4.0 International  CC-BY-SA
 
+<pre>
 Creative Commons Attribution-ShareAlike 4.0 International Public License
 
 By exercising the Licensed Rights (defined below), You accept and agree to be bound by the terms and conditions of this Creative Commons Attribution-ShareAlike 4.0 International Public License ("Public License"). To the extent this Public License may be interpreted as a contract, You are granted the Licensed Rights in consideration of Your acceptance of these terms and conditions, and the Licensor grants You such rights in consideration of benefits the Licensor receives from making the Licensed Material available under these terms and conditions.
@@ -1232,8 +1235,11 @@ b.To the extent possible, if any provision of this Public License is deemed unen
 c.No term or condition of this Public License will be waived and no failure to comply consented to unless expressly agreed to by the Licensor.
 d.Nothing in this Public License constitutes or may be interpreted as a limitation upon, or waiver of, any privileges and immunities that apply to the Licensor or You, including from the legal processes of any jurisdiction or authority.
 
+</pre> 
+
 ## Libre Art License 1.3
 
+<pre>
 http://artlibre.org/licence/lal/en/
 
 [ Copyleft Attitude ]
@@ -1351,5 +1357,5 @@ USER GUIDE
 Copyleft Attitude, 2007.
  You can make reproductions and distribute this license verbatim (without any changes).
 
-
+</pre>
 
