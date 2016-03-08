@@ -107,7 +107,7 @@ The main license that governs both Free and Open Source software (FOSS) is the G
  1)  The freedom to redistribute copies so you can help your neighbor (freedom 2).
  1)  The freedom to distribute copies of your modified versions to others (freedom 3). By doing this you can give the whole community a chance to benefit from your changes. Access to the source code is a precondition for this.
 
- The [GNU General Public License](http://www.gnu.org/licenses/quick-guide-gplv3.html "GPLv3") or known as GPL comes in two flavors, GPLv2 and GPLv3.  GPLv2 was released in 1991 and the opensource license the Linux kernel is mostly released under.  Some would say that this license at the right time was able to "launch" Open Source into the mainstream.  This is also a point of contention with Open Source using the *law* of Free Software but forgetting the spirit so to speak.  
+ The [GNU General Public License](http://www.gnu.org/licenses/quick-guide-gplv3.html "GPLv3") or known as GPL comes in two flavors, GPLv2 and GPLv3.  GPLv2 was released in 1991 and the opensource license the Linux kernel is released under.  Some would say that this license at the right time was able to "launch" Open Source into the mainstream.  This is also a point of contention with Open Source using the *law* of Free Software but forgetting the spirit so to speak.  
  
  
 
