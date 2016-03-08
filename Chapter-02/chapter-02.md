@@ -178,12 +178,47 @@ Full Text: [https://opensource.org/licenses/BSD-3-Clause](https://opensource.org
 
 ## Chapter Conclusion and Summary
 
+We learned:
+
+* Who Richard Stallman is and what motivated Free Software 
+* We learned the 4 freedoms of Free Software
+* We learned about the FSF and the GPLv2 and v3
+* We learned about disagreements with the GPLv3 from Linus Torvalds
+* We learned about the term Open Source
+* We learned about the OSI founders and the 9 rights of Open Source
+* We learned about other permissive and Open Source licenses
+* We learned about Creative Commons for documents and writing
+* We learned about the LGPL for licensing libraries to be included in non-GPL works
 
 ### Review Questions
 
+TBA
 
 ### Podcast Questions
 
+ITMO 453-553 Podcast Review 1 
+
+[https://www.youtube.com/watch?v=-zRN7XLCRhc](https://www.youtube.com/watch?v=-zRN7XLCRhc "Bryan Cantrill")
+
+*Warning* a bit of casual language but I believe the content value outweighs the casual words
+
+*       0:22 What is Illumos OS
+*       5:40 What was the early model of software development that Sun invented/originated?
+*       6:41 What was declared OS-wise in the mid 1990’s?
+*       10:00 What did Sun & Xerox Parc have in common?
+*       10:48-15:14 What were the 7 innovative technologies that Sun created and deployed in Solaris and what did each of them do approximately?
+*       16:49 Where did these technologies come from?
+*       17:27 Where does innovation come from?
+*       18:30 What did the rise of Linux and Intel x86 do to the price of OS Acquisition in the late 1990’s?
+*       26:41 OpenSolaris (2005) was opensource but why couldn’t you contribute/fork the project?
+*       27:00 What does Bryan think that the Apache Foundation Model is not the right model for opensource?
+*       31:00 What happened to the OpenSolaris project in ~2007?
+*       34:00 What happened to Sun in 2010?
+*       37:00 What are Larry Ellison’s (Oracle CEO) two philanthropic endeavors (as of 2011) and what do they show?
+*       40:00 What is IllumOS and when was it released?
+*       42:00 What happened to the remaining Sun Engineers when Oracle “closed” OpenSolaris?
+*       55:16 What the IllumOS based KVM advantages over Linux and Oracle Solaris?
+*       57:38 What is the name of the Joyent based IllumOS distribution?
 
 
 ### Lab
