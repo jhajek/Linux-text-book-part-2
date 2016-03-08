@@ -174,4 +174,4 @@ You will encounter these licenses and have to make decisions about them as you u
 
 [^9]: [https://en.wikipedia.org/wiki/GNU/Linux_naming_controversy#Opinions_supporting_.22Linux.22](https://en.wikipedia.org/wiki/GNU/Linux_naming_controversy#Opinions_supporting_.22Linux.22 "Controversy")
 
-
+[^10]: [http://www.gnu.org/licenses/license-list.html](http://www.gnu.org/licenses/license-list.html "MIT")
