@@ -17,7 +17,7 @@ At the conclusion of this lecture you will we comfortable in describing and anal
   
 ### Free Software and Licenses
 
-   The term __Free Software__ does not have a reference to price.  This is a minor issue in the grand argument according to Richard Stallman.  Often times the term *libre* the root of liberty is used to describe the freedom you have with Free Software. There is an excellent 10 minute video presentation from Richard Stallman directly on why Free Software is important.  [Why is Free Software important?](https://www.youtube.com/watch?v=ZPPikY3uLIQ "RMS presentation").  The summary is for a program to be defined as __Free Software__ it has to guarentee the user 4 essential freedoms:
+   The term __Free Software__ does not have a reference to price.  This is a minor issue in the grand argument according to Richard Stallman.  Often times the term *libre* the root of liberty is used to describe the freedom you have with Free Software. There is an excellent 10 minute video presentation from Richard Stallman directly on why Free Software is important.  [Why is Free Software important?](https://www.youtube.com/watch?v=ZPPikY3uLIQ "RMS presentation").  The summary is for a program to be defined as __Free Software__ it has to guarantee the user 4 essential freedoms:
    
   * The freedom to run the program as you wish, for any purpose (freedom 0).
   * The freedom to study how the program works, and change it so it does your computing as you wish (freedom 1). Access to the source code is a precondition for this. 
