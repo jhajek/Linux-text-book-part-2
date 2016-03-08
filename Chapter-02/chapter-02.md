@@ -195,7 +195,7 @@ ITMO 453-553 Podcast Review 1
 
 *Warning* a bit of casual language but I believe the content value outweighs the casual words
 
-*       0:22 What is Illumos OS
+*       0:22 What is Illumos OS?
 *       5:40 What was the early model of software development that Sun invented/originated?
 *       6:41 What was declared OS-wise in the mid 1990’s?
 *       10:00 What did Sun & Xerox Parc have in common?
@@ -210,7 +210,7 @@ ITMO 453-553 Podcast Review 1
 *       37:00 What are Larry Ellison’s (Oracle CEO) two philanthropic endeavors (as of 2011) and what do they show?
 *       40:00 What is IllumOS and when was it released?
 *       42:00 What happened to the remaining Sun Engineers when Oracle “closed” OpenSolaris?
-*       55:16 What the IllumOS based KVM advantages over Linux and Oracle Solaris?
+*       55:16 What are the IllumOS based KVM advantages over Linux and Oracle Solaris?
 *       57:38 What is the name of the Joyent based IllumOS distribution?
 
 ### Lab
