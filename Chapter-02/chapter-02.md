@@ -68,11 +68,11 @@ There is an entire [Wikipedia article](https://en.wikipedia.org/wiki/GNU/Linux_n
 
 #### GPLv3
 
- The GPLv3 was released in 2007 in order to address some of the perceived lack of commercial protections in the GPLv2.  Companies had found clever ways to bend the intent of GPLv2 license and yet not legally violate the license. This led Richard Stallman and the FSF to introduce certain articles and sub-sections in GPLv3 in order to specifically prohibit these practices.  This alienated those who saw GPLv2 as good enough and did not want a more restrictive license implemented in the case of GPLv3.  Linus Torvalds and the Linux kernel were expressly mentioned to be staying at GPLv2 and states that the GPLv3 destroys everything that the GPLv2 stood for--it is not suitable for the Linux Kernel.  Linus spoke to this here: [http://youtube.com/watch?v=bw58LZTuZjA](http://youtube.com/watch?v=bw58LZTuZjA "Linus") [http://youtube.com/watch?v=PaKIZ7gJIRU](http://youtube.com/watch?v=PaKIZ7gJIRU "GPLv3")
+ The GPLv3 was released in 2007 in order to address some of the perceived lack of commercial protections in the GPLv2.  Companies had found clever ways to bend the intent of GPLv2 license and yet not legally violate the license. This led Richard Stallman and the FSF to introduce certain articles and sub-sections in GPLv3 in order to specifically prohibit these practices.  This alienated those who saw GPLv2 as good enough and did not want a more restrictive license implemented in the case of GPLv3.  From a technical standpoint GPLv2 is incompatible with GPLv3.  Linus Torvalds and the Linux kernel were expressly mentioned to be staying at GPLv2 and states that the GPLv3 destroys everything that the GPLv2 stood for--it is not suitable for the Linux Kernel.  Linus spoke to this here: [http://youtube.com/watch?v=bw58LZTuZjA](http://youtube.com/watch?v=bw58LZTuZjA "Linus") [http://youtube.com/watch?v=PaKIZ7gJIRU](http://youtube.com/watch?v=PaKIZ7gJIRU "GPLv3")  You can read the entire upgrade from GPLv2 to GPLv3 from Richard Stallman here: [http://gplv3.fsf.org/rms-why.html/](http://gplv3.fsf.org/rms-why.html/ "GPLv3")
  
 ### LGPL
 
-These licenses are not the only licenses in the FOSS arena.  In addition to GPL, GNU has additional Free and Copy-left licenses.  The first one to mention is the [GNU Lesser General Public License - LGPL](https://en.wikipedia.org/wiki/GNU_Lesser_General_Public_License "LGPL").   This license is usually attributed to software libraries not entire works of software.  The idea behind it is a GPL compatible (but lesser) license that allows libraries to be used with non-GPL software and the library retains the ability to be reverse engineered and debugged but does not take over the entire project license-wise but allows for inclusion of a library into a non-GPL project.  Version 3 of the GPL was released in 2007 along with GPLv3 to show the unity in changes.   
+The GPL license is not the only license in the FOSS arena.  In addition to GPL, the FSF has additional Copyleft licenses.  The first license to be added after the GPL was the [GNU Lesser General Public License - LGPL](https://en.wikipedia.org/wiki/GNU_Lesser_General_Public_License "LGPL").   This license is usually attributed to software libraries and not entire works of software.  The idea behind it is a GPL compatible (but lesser) license that allows libraries to be used with non-GPL software and the library retains the ability to be reverse engineered and debugged but does not take over the entire project license-wise. Thus allowing for inclusion of a library into a non-GPL project.  Version 3 of the LGPL was released in 2007 along with GPLv3 to show the unity in changes.  The reasoning behind the creation of this license was that libraries that were free software would not be included in software projects for fear that their inclusion would force the source code of the entire project to be revealed.  It was argued that including and widening the spread of free-software based libraries was acceptable.  You get the feeling that Richard Stallman wasn't completely convinced, but accepts the reality of this license.  [Why you shouldn't use the LGPL for your next library](http://www.gnu.org/licenses/why-not-lgpl.html "LGPL")   
 
 ![*LGPLv3*](images/Chapter-02/Licenses/lgplv3-147x51.png "LGPLv3")
 
@@ -94,7 +94,7 @@ These licenses are not the only licenses in the FOSS arena.  In addition to GPL,
 
 ### Open Source Software and Licenses
     
- Opensource software term was initially coined in 1998 by the Open Source Initiative and made famous by [Eric S. Raymond](https://en.wikipedia.org/wiki/Eric_S._Raymond "ESR".     
+ Opensource software term was initially coined in 1998 by the Open Source Initiative and made famous by [Eric S. Raymond](https://en.wikipedia.org/wiki/Eric_S._Raymond "ESR").     
 
 ![*Opensource Licenses*](images/Chapter-02/Licenses/640px-Software_licensing_spectrum.png "Licenses") [^3]
 
@@ -109,15 +109,25 @@ The main license that governs both Free and Open Source software (FOSS) is the G
 
  The [GNU General Public License](http://www.gnu.org/licenses/quick-guide-gplv3.html "GPLv3") or known as GPL comes in two flavors, GPLv2 and GPLv3.  GPLv2 was released in 1991 and the opensource license the Linux kernel is released under.  Some would say that this license at the right time was able to "launch" Open Source into the mainstream.  This is also a point of contention with Open Source using the *law* of Free Software but forgetting the spirit so to speak.  
  
- 
-
 ### ASL (Apache)
 
 
 
 ### MPL (Mozilla)
 
-### MIT
+### MIT/X11
+
+[http://directory.fsf.org/wiki/License:X11](http://directory.fsf.org/wiki/License:X11 "MIT")
+
+Entire Text: source: [https://opensource.org/licenses/MIT](https://opensource.org/licenses/MIT "MIT")
+>The MIT License (MIT) 
+>Copyright (c) <year> <copyright holders>
+
+>Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated >documentation files (the "Software"), to deal in the Software without restriction, including without limitation the >rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to >permit persons to whom the Software is furnished to do so, subject to the following conditions:
+
+>The above copyright notice and this permission notice shall be included in all copies or substantial portions of the >Software.
+
+>THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE >WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS >OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR >OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 
 ### BSD-style
 
