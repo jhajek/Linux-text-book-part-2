@@ -74,7 +74,7 @@ There is an entire [Wikipedia article](https://en.wikipedia.org/wiki/GNU/Linux_n
 
 The GPL license is not the only license in the FOSS arena.  In addition to GPL, the FSF has additional Copyleft licenses.  The first license to be added after the GPL was the [GNU Lesser General Public License - LGPL](https://en.wikipedia.org/wiki/GNU_Lesser_General_Public_License "LGPL").   This license is usually attributed to software libraries and not entire works of software.  The idea behind it is a GPL compatible (but lesser) license that allows libraries to be used with non-GPL software and the library retains the ability to be reverse engineered and debugged but does not take over the entire project license-wise. Thus allowing for inclusion of a library into a non-GPL project.  Version 3 of the LGPL was released in 2007 along with GPLv3 to show the unity in changes.  The reasoning behind the creation of this license was that libraries that were free software would not be included in software projects for fear that their inclusion would force the source code of the entire project to be revealed.  It was argued that including and widening the spread of free-software based libraries was acceptable.  You get the feeling that Richard Stallman wasn't completely convinced, but accepts the reality of this license.  [Why you shouldn't use the LGPL for your next library](http://www.gnu.org/licenses/why-not-lgpl.html "LGPL")   
 
-![*LGPLv3*](images/Chapter-02/Licenses/lgplv3-147x51.png "LGPLv3")
+![*LGPLv3*](images/Chapter-02/Licenses/lgplv3-147x51-144.png "LGPLv3")
 
 \newpage
 
@@ -111,7 +111,7 @@ The main license that governs both Free and Open Source software (FOSS) is the G
 
 > *"This is a free software license, compatible with version 3 of the GNU GPL. Please note that this license is not compatible with GPL version 2, because it has some requirements that are not in that GPL version. These include certain patent termination and indemnification provisions. The patent termination provision is a good thing, which is why we recommend the Apache 2.0 license for substantial programs over other lax permissive licenses."* [^11]
 
-The Apache Foundation had its beginnings in 1999/2000.  It's principle product was the Apache Webserver.  As the Apache project grew and more tools were added an opensource license for all code in the ASF ([Apache Software Foundation](https://en.wikipedia.org/wiki/Apache_Software_Foundation "ASF").  This license was *permissive* but not copyleft and incompatible with the GPLv3.  Version 2.0 of the ASL (Apache Software License) is completely compatible with the GPLv3--which means components from each project can be joined together under both licenses. [Full text of the Apache Software License 2.0](http://directory.fsf.org/wiki/License:Apache2.0 "ASL 2.0") 
+The Apache Foundation had its beginnings in 1999/2000.  It's principle product was the Apache Webserver.  As the Apache project grew and more tools were added, an opensource license for all code in the ASF ([Apache Software Foundation](https://en.wikipedia.org/wiki/Apache_Software_Foundation "ASF").  This license was *permissive* but not copyleft and incompatible with the GPLv3.  Version 2.0 of the ASL (Apache Software License) is completely compatible with the GPLv3--which means components from each project can be joined together under both licenses. [Full text of the Apache Software License 2.0](http://directory.fsf.org/wiki/License:Apache2.0 "ASL 2.0") 
 
 ### MPL (Mozilla)
 
