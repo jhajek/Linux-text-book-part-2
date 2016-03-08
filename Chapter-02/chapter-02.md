@@ -109,7 +109,7 @@ The main license that governs both Free and Open Source software (FOSS) is the G
  
 ### ASL (Apache)
 
-
+[^11]
 
 ### MPL (Mozilla)
 
@@ -117,7 +117,7 @@ The main license that governs both Free and Open Source software (FOSS) is the G
 
 [http://directory.fsf.org/wiki/License:X11](http://directory.fsf.org/wiki/License:X11 "MIT")
 
->This is a lax permissive non-copyleft free software license, compatible with the GNU GPL. Older versions of XFree86 used the same license, and some of the current variants of XFree86 also do. This license is sometimes called the *MIT license*, but that term is misleading, since MIT has used many licenses for software.
+>This is a lax permissive non-copyleft free software license, compatible with the GNU GPL. Older versions of XFree86 used the same license, and some of the current variants of XFree86 also do. This license is sometimes called the *MIT license*, but that term is misleading, since MIT has used many licenses for software. [^10]
 
 
 Entire Text: source: [https://opensource.org/licenses/MIT](https://opensource.org/licenses/MIT "MIT")
@@ -129,8 +129,6 @@ Entire Text: source: [https://opensource.org/licenses/MIT](https://opensource.or
 >The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
 
 >THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
-
-
 
 ### BSD-style
 
@@ -175,3 +173,6 @@ You will encounter these licenses and have to make decisions about them as you u
 [^9]: [https://en.wikipedia.org/wiki/GNU/Linux_naming_controversy#Opinions_supporting_.22Linux.22](https://en.wikipedia.org/wiki/GNU/Linux_naming_controversy#Opinions_supporting_.22Linux.22 "Controversy")
 
 [^10]: [http://www.gnu.org/licenses/license-list.html](http://www.gnu.org/licenses/license-list.html "MIT")
+
+[^11]: [http://www.gnu.org/licenses/license-list.html#apache2](http://www.gnu.org/licenses/license-list.html#apache2 "ASL 2.0")
+
