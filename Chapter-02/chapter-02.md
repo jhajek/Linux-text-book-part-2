@@ -164,7 +164,8 @@ Full Text: [https://opensource.org/licenses/BSD-3-Clause](https://opensource.org
   
   * [ZFS on Ubuntu](http://dtrace.org/blogs/ahl/2016/03/07/big-news-for-zfs-on-linux/ "ZFS Ubuntu")
   * [Software Freedom Law Center - Ubuntu and CDDL](https://www.softwarefreedom.org/resources/2016/linux-kernel-cddl.html "CDDL")
-
+  * [Software Conservancy comments on - Ubuntu, ZFS, and CDDL](http://sfconservancy.org/blog/2016/feb/25/zfs-and-linux/ "ZFS")
+  
 [Full Text CDDL 1.0](http://directory.fsf.org/wiki/License:CDDLv1.0 "CDDL") 
 
 ### GPL and FSF commentary
