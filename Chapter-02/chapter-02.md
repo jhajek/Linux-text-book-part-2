@@ -46,7 +46,7 @@ All of these projects became part of the GNU project -- hosted at [http://gnu.or
 
 In addition to having a foundation that owns the copyright for projects, a legally enforceable license called the [GNU General Public License](https://en.wikipedia.org/wiki/GNU_General_Public_License "GPL") or GPL was created and released in February of 1989.  The GPL was the enshrinement of the four software freedoms into a user license.  An additional twist (because all hackers like clever puns) the license was called--*copyleft*, and not copyright which enshrined the right of source, and modified works to be distributed with attribution.  The FSF will differentiate between a __Copyleft__ license and a __permissive__ software license. 
 
-![*GPLv3*](images/Chapter-02/Licenses/gplv3-127x51.png "GPL Logo")
+![*GPLv3*](images/Chapter-02/Licenses/GPLv3_Logo.svg.png "GPL Logo")
 
 #### GPLv2
 
