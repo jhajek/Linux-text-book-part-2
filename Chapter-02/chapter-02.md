@@ -90,8 +90,6 @@ The GPL license is not the only license in the FOSS arena.  In addition to GPL, 
 
 ![*Life imitates art* http://blog.xkcd.com/2007/04/19/life-imitates-xkcd-part-ii-richard-stallman/](images/Chapter-02/People/stallman-katana.jpg "RMS Katana")
 
-
-
 ### Open Source Software and Licenses
     
  Opensource software term was initially coined in 1998 by the Open Source Initiative and made famous by [Eric S. Raymond](https://en.wikipedia.org/wiki/Eric_S._Raymond "ESR").     
