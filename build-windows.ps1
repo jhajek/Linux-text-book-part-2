@@ -12,50 +12,50 @@
 # http://stevehardie.com/2013/04/powershell-check-if-file-exists/
 # http://www.powershelladmin.com/wiki/Powershell_multi-line_comments
 #delete previous build artifacts but not the README.md
-If (Test-Path "./output/pdf/Understanding-the-Technology-and-Philosophy-of-Linux-Part-III*"){
+If (Test-Path "./output/pdf/Understanding-the-Technology-and-Philosophy-of-Linux-Part-II*"){
   rm -v ./output/pdf/*.pdf
 }Else{
-  echo "./output/pdf/Understanding-the-Technology-and-Philosophy-of-Linux-Part-III.pdf - File does not exist =("
+  echo "./output/pdf/Understanding-the-Technology-and-Philosophy-of-Linux-Part-II.pdf - File does not exist =("
 }
 
-If (Test-Path "./output/epub/Understanding-the-Technology-and-Philosophy-of-Linux-Part-III*"){
+If (Test-Path "./output/epub/Understanding-the-Technology-and-Philosophy-of-Linux-Part-II*"){
   rm -v ./output/epub/*.epub
 }Else{
-  echo "./output/epub/Understanding-the-Technology-and-Philosophy-of-Linux-Part-III.epub - File does not exist =("
+  echo "./output/epub/Understanding-the-Technology-and-Philosophy-of-Linux-Part-II.epub - File does not exist =("
 }
 
-If (Test-Path "./output/html/Understanding-the-Technology-and-Philosophy-of-Linux-Part-III*"){
+If (Test-Path "./output/html/Understanding-the-Technology-and-Philosophy-of-Linux-Part-II*"){
   rm -v ./output/html/*.html
 }Else{
-  echo "./output/html/Understanding-the-Technology-and-Philosophy-of-Linux-Part-III.html - File does not exist =("
+  echo "./output/html/Understanding-the-Technology-and-Philosophy-of-Linux-Part-II.html - File does not exist =("
 }
 
-If (Test-Path "./output/docx/Understanding-the-Technology-and-Philosophy-of-Linux-Part-III*"){
+If (Test-Path "./output/docx/Understanding-the-Technology-and-Philosophy-of-Linux-Part-II*"){
   rm -v ./output/docx/*.docx
 }Else{
-  echo "./output/docx/Understanding-the-Technology-and-Philosophy-of-Linux-Part-III.docx - File does not exist =("
+  echo "./output/docx/Understanding-the-Technology-and-Philosophy-of-Linux-Part-II.docx - File does not exist =("
 }
 
-If (Test-Path "./output/odt/Understanding-the-Technology-and-Philosophy-of-Linux-Part-III*"){
+If (Test-Path "./output/odt/Understanding-the-Technology-and-Philosophy-of-Linux-Part-II*"){
   rm -v ./output/odt/*.odt
 }Else{
-  echo "./output/odt/Understanding-the-Technology-and-Philosophy-of-Linux-Part-III.odt - File does not exist =("
+  echo "./output/odt/Understanding-the-Technology-and-Philosophy-of-Linux-Part-II.odt - File does not exist =("
 }
 # Debugging - you may not need this
-If (Test-Path "C:\Users\palad\OneDrive\Documents\epub\Understanding-the-Technology-and-Philosophy-of-Linux-Part-III*.epub"){
+If (Test-Path "C:\Users\palad\OneDrive\Documents\epub\Understanding-the-Technology-and-Philosophy-of-Linux-Part-II*.epub"){
   echo "Removing previous epub version"
-  rm -v "C:\Users\palad\OneDrive\Documents\epub\Understanding-the-Technology-and-Philosophy-of-Linux-Part-III*.epub"
+  rm -v "C:\Users\palad\OneDrive\Documents\epub\Understanding-the-Technology-and-Philosophy-of-Linux-Part-II*.epub"
 }Else{
-  echo "C:\Users\palad\OneDrive\Documents\epub\Understanding-the-Technology-and-Philosophy-of-Linux-Part-III.epub - File does not exist =("
+  echo "C:\Users\palad\OneDrive\Documents\epub\Understanding-the-Technology-and-Philosophy-of-Linux-Part-II.epub - File does not exist =("
 }
 
 
 <#
-If (Test-Path ./output/mobi/Understanding-the-Technology-and-Philosophy-of-Linux-Part-III.mobi){
+If (Test-Path ./output/mobi/Understanding-the-Technology-and-Philosophy-of-Linux-Part-II.mobi){
   # http://stevehardie.com/2013/04/powershell-check-if-file-exists/
   rm -v ./output/mobi/*.mobi
 }Else{
-  echo "./output/mobi/Understanding-the-Technology-and-Philosophy-of-Linux-Part-III.mobi - File does not exist =("
+  echo "./output/mobi/Understanding-the-Technology-and-Philosophy-of-Linux-Part-II.mobi - File does not exist =("
 }
 #>
 
