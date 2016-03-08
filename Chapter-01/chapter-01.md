@@ -108,6 +108,10 @@ Chapter 03 - [https://sway.com/egsDPhcU1SVORziU](https://sway.com/egsDPhcU1SVORz
 Chapter 04 - [https://sway.com/J1Vb2xgB1IzlreVG](https://sway.com/J1Vb2xgB1IzlreVG "Chapter 4")
 Chapter 05 - [https://sway.com/AeJeXAD4lmrAQAAH](https://sway.com/AeJeXAD4lmrAQAAH "Chapter 5")   
    
+## Cover Image
+
+[https://upload.wikimedia.org/wikipedia/commons/e/ea/Saint_Augustine_by_Philippe_de_Champaigne.jpg](https://upload.wikimedia.org/wikipedia/commons/e/ea/Saint_Augustine_by_Philippe_de_Champaigne.jpg)   
+   
 ## Conclusion
 
 You are ready to begin.  Hit Any Key to Continue...
