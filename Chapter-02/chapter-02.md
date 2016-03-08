@@ -111,7 +111,15 @@ The main license that governs both Free and Open Source software (FOSS) is the G
 
 > *"This is a free software license, compatible with version 3 of the GNU GPL. Please note that this license is not compatible with GPL version 2, because it has some requirements that are not in that GPL version. These include certain patent termination and indemnification provisions. The patent termination provision is a good thing, which is why we recommend the Apache 2.0 license for substantial programs over other lax permissive licenses."* [^11]
 
+The Apache Foundation had its beginnings in 1999/2000.  It's principle product was the Apache Webserver.  As the Apache project grew and more tools were added an opensource license for all code in the ASF ([Apache Software Foundation](https://en.wikipedia.org/wiki/Apache_Software_Foundation "ASF").  This license was *permissive* but not copyleft and incompatible with the GPLv3.  Version 2.0 of the ASL (Apache Software License) is completely compatible with the GPLv3--which means components from each project can be joined together under both licenses. [Full text of the Apache Software License 2.0](http://directory.fsf.org/wiki/License:Apache2.0 "ASL 2.0") 
+
 ### MPL (Mozilla)
+
+  Mozilla has an opensource license for their own products which overly complicates things--while still being *permissive* and *copyleft*.  
+  
+> "*This is a free software license. Section 3.3 provides indirect compatibility between this license and the GNU GPL version 2.0, the GNU LGPL version 2.1, the GNU AGPL version 3, and all later versions of those licenses. When you receive work under MPL 2.0, you may make a “Larger Work” that combines that work with work under those GNU licenses. When you do, section 3.3 gives you permission to distribute the MPL-covered work under the terms of the same GNU licenses, with one condition: you must make sure that the files that were originally under the MPL are still available under the MPL's terms as well*" [^12]
+
+[Full Text](http://directory.fsf.org/wiki/License:MPLv2.0 "MPL 2.0")
 
 ### MIT/X11
 
@@ -176,3 +184,4 @@ You will encounter these licenses and have to make decisions about them as you u
 
 [^11]: [http://www.gnu.org/licenses/license-list.html#apache2](http://www.gnu.org/licenses/license-list.html#apache2 "ASL 2.0")
 
+[^12]: [http://www.gnu.org/licenses/license-list.html#MPL-2.0](http://www.gnu.org/licenses/license-list.html#MPL-2.0 "MPL")
