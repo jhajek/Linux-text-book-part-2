@@ -54,7 +54,7 @@ As time went and Free Software began to be adopted in the early 1990's on, new c
 
 > * According to Richard Stallman, the major change in GPLv2 was the "Liberty or Death" clause, as he calls it – Section 7. This section says that if a license imposes restrictions that prevent distributing GPL-covered software in a way that respects other users' freedom (for example, if a legal ruling states that someone may only distribute the software in binary form), the developer may not distribute it at all. The hope is, that this makes it less tempting for companies to use patent threats to require fees from free software developers.*[^5]
 
-The GPLv2 was released at a curious point in the history of Free and Open Source software.  The GNU project in a mere 6 years reverse engineered the entire Unix operating system and made free components equal to or superior to the proprietary AT&T source code. The only component the GNU project was missing was an operating system kernel.  They had all the tools but not the key part to drive the operating system.  If you remember a kernel is an abstraction layer that sits in between the hardware and user-land portion of the operating system and translates system calls to direct hardware calls.  The situation could be compared to a luxury car that has no engine--alomst done but missing the most critical part.  
+The GPLv2 was released at a curious point in the history of Free and Open Source software.  The GNU project in a mere 6 years reverse engineered the entire Unix operating system and made free components equal to or superior to the proprietary AT&T source code. The only component the GNU project was missing was an operating system kernel.  They had all the tools but not the key part to drive the operating system.  If you remember a kernel is an abstraction layer that sits in between the hardware and user-land portion of the operating system and translates system calls to direct hardware calls.  The situation could be compared to a luxury car that has no engine--almost done but missing the most critical part.  
 
 At the end of 1991/early 1992 a Finnish grad student named Linus Torvalds came along.  He had enjoyed using UNIX on various machines in the computer lab at his university, but prefered to be able to use it on his own 386 Intel PC.  He started out on a project to create a Unix inspired kernel that would run on his own hardware with his own improvements added on.   This gave birth to the Linux kernel.  Now the only problem Linus and his nascent Linux kernel had was that it had the opposite problem, it was an engine in need of a car body.  Hence a perfect match.   Linus and other like-minded hackers added the GNU tools, which were all licensed under GPLv2 now, to his kernel and a new operating system was born.  Looking back the move seems pure genius as Linus licensed his kernel under the new GPLv2 license because he valued the fact that people could share code, fork the code, and let the *users* decide what features were best.  
 
@@ -77,18 +77,6 @@ The GPL license is not the only license in the FOSS arena.  In addition to GPL, 
 ![*LGPLv3*](images/Chapter-02/Licenses/lgplv3-147x51-144.png "LGPLv3")
 
 \newpage
-
-### GPL and FSF commentary
-
-![*Later we'll dress up like Big Oil thugs and jump Ralph Nader.*](images/Chapter-02/Comics/open_source.png "Open Source")[^6]
-
-\newpage
-
-![*One of the survivors, poking around in the ruins with the point of a spear, uncovers a singed photo of Richard Stallman. They stare in silence. "This" one of them finally says, "This is a man who BELIEVED in something."*](images/Chapter-02/Comics/operating_systems.png "HURD")[^7]
-
-\newpage
-
-![*Life imitates art* http://blog.xkcd.com/2007/04/19/life-imitates-xkcd-part-ii-richard-stallman/](images/Chapter-02/People/stallman-katana.jpg "RMS Katana")
 
 ### Open Source Software and Licenses
     
@@ -179,6 +167,13 @@ Full Text: [https://opensource.org/licenses/BSD-3-Clause](https://opensource.org
 
 [Full Text CDDL 1.0](http://directory.fsf.org/wiki/License:CDDLv1.0 "CDDL") 
 
+### GPL and FSF commentary
+
+![*Later we'll dress up like Big Oil thugs and jump Ralph Nader.*](images/Chapter-02/Comics/open_source.png "Open Source")[^6]
+
+![*One of the survivors, poking around in the ruins with the point of a spear, uncovers a singed photo of Richard Stallman. They stare in silence. "This" one of them finally says, "This is a man who BELIEVED in something."*](images/Chapter-02/Comics/operating_systems.png "HURD")[^7]
+
+![*Life imitates art* http://blog.xkcd.com/2007/04/19/life-imitates-xkcd-part-ii-richard-stallman/](images/Chapter-02/People/stallman-katana.jpg "RMS Katana")
 
 ## Chapter Conclusion and Summary
 
