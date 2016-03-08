@@ -64,11 +64,11 @@ To Richard Stallman, disappointed that his [GNU HURD](https://en.wikipedia.org/w
 
 > *"Well, I think it's justified, but it's justified if you actually make a GNU distribution of Linux ... the same way that I think that "Red Hat Linux" is fine, or "SuSE Linux" or "Debian Linux", because if you actually make your own distribution of Linux, you get to name the thing, but calling Linux in general "GNU Linux" I think is just ridiculous"* [^9]
 
-There is an entire [Wikipedia article](https://en.wikipedia.org/wiki/GNU/Linux_naming_controversy "Controversy") relating to history of the naming convention. ]\
+There is an entire [Wikipedia article](https://en.wikipedia.org/wiki/GNU/Linux_naming_controversy "Controversy") relating to history of the naming convention.
 
 #### GPLv3
 
- The GPLv3 was released in 2007 in order to address some of the perceived lack of commercial protections in the GPLv2.  Companies had found clever ways to bend the intent of GPLv2 license and yet not legally violate the license. This led Richard Stallman to introduce certain articles and sub-sections in GPLv3 in order to specifically prohibit these practices.  This alienated those who saw GPLv2 as good enough and did not want a more restrictive license implemented in the case of GPLv3.  Linus Torvalds and the Linux kernel were expressly mentioned to be staying at GPLv2 and disagrees that the GPLv3 destroys everything that the GPLv2 stood for.  Linus spoke to this here: [http://youtube.com/watch?v=bw58LZTuZjA](http://youtube.com/watch?v=bw58LZTuZjA "Linus") [http://youtube.com/watch?v=PaKIZ7gJIRU](http://youtube.com/watch?v=PaKIZ7gJIRU "GPLv3")
+ The GPLv3 was released in 2007 in order to address some of the perceived lack of commercial protections in the GPLv2.  Companies had found clever ways to bend the intent of GPLv2 license and yet not legally violate the license. This led Richard Stallman and the FSF to introduce certain articles and sub-sections in GPLv3 in order to specifically prohibit these practices.  This alienated those who saw GPLv2 as good enough and did not want a more restrictive license implemented in the case of GPLv3.  Linus Torvalds and the Linux kernel were expressly mentioned to be staying at GPLv2 and states that the GPLv3 destroys everything that the GPLv2 stood for--it is not suitable for the Linux Kernel.  Linus spoke to this here: [http://youtube.com/watch?v=bw58LZTuZjA](http://youtube.com/watch?v=bw58LZTuZjA "Linus") [http://youtube.com/watch?v=PaKIZ7gJIRU](http://youtube.com/watch?v=PaKIZ7gJIRU "GPLv3")
  
 ### LGPL
 
