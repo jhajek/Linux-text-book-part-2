@@ -109,7 +109,7 @@ The main license that governs both Free and Open Source software (FOSS) is the G
  
 ### ASL (Apache)
 
-[^11]
+> *"This is a free software license, compatible with version 3 of the GNU GPL. Please note that this license is not compatible with GPL version 2, because it has some requirements that are not in that GPL version. These include certain patent termination and indemnification provisions. The patent termination provision is a good thing, which is why we recommend the Apache 2.0 license for substantial programs over other lax permissive licenses."* [^11]
 
 ### MPL (Mozilla)
 
