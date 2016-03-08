@@ -217,12 +217,6 @@ either expressed or implied, of the FreeBSD Project.
 
 [Full Text CDDL 1.0](http://directory.fsf.org/wiki/License:CDDLv1.0 "CDDL") 
 
-### Other OSI Approved Licenses
-
-You will encounter these licenses and have to make decisions about them as you use and choose software for your projects.
-
-
-
 
 ## Chapter Conclusion and Summary
 
