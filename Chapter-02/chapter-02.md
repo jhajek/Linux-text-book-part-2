@@ -127,7 +127,6 @@ The Apache Foundation had its beginnings in 1999/2000.  It's principle product w
 
 >This is a lax permissive non-copyleft free software license, compatible with the GNU GPL. Older versions of XFree86 used the same license, and some of the current variants of XFree86 also do. This license is sometimes called the *MIT license*, but that term is misleading, since MIT has used many licenses for software. [^10]
 
-
 Entire Text: source: [https://opensource.org/licenses/MIT](https://opensource.org/licenses/MIT "MIT")
 >The MIT License (MIT) 
 >Copyright (c) <year> <copyright holders>
@@ -141,6 +140,19 @@ Entire Text: source: [https://opensource.org/licenses/MIT](https://opensource.or
 ### BSD-style
 
 ### Sun/Oracle CDDL
+
+  The Common Development and Distribution License 1.0 was developed by Sun for covering technologies that had been developed under contract and closed source and gradually allowing them to opensourced.  Various histories will say the the CDDL was used intentionally to be incompatible with the GPL, some will argue that was not the case.  
+  
+ > "*According to Danese Cooper one of the reasons for basing the CDDL on the Mozilla license was that the Mozilla license is GPL-incompatible. Cooper stated, at the 6th annual Debian conference, that the engineers who had written the Solaris kernel requested that the license of OpenSolaris be GPL-incompatible.*" 
+ 
+ > "*Simon Phipps (Sun's Chief Open Source Officer at the time), who had introduced Ms. Cooper as "the one who actually wrote the CDDL", did not immediately comment, but later in the same video, he says, referring back to the license issue, "I actually disagree with Danese to some degree", while describing the strong preference among the engineers who wrote the code for a BSD-like license, which was in conflict with Sun's preference for something copyleft, and that waiting for legal clearance to release some parts of the code under the then unreleased GNU GPL v3 would have taken several years, and would probably also have involved massed resignations from engineers (unhappy with either the delay, the GPL, or both—this is not clear from the video). Later, in September 2006, Phipps rejected Cooper's assertion in even stronger terms.*" [^13]
+  
+  The CDDL was used to license all of Sun's technology (now owned by Oracle--no friend of the GPL) such as the ZFS filesystem, Netbeans, GlassFish, and Dtrace (part of the OpenSolaris opperating sytem--now IllumOS).  These features are compiled natively into FreeBSD because of the BSD-style license can add CDDL licensed software in, but GPLv2 cannot--hence why Linux doesn't have these technologies.  As of March 2016, Ubuntu announced that they would include a ZFS kernel module that runs in Userland, in the hopes that gets CDDL licensing around the GPLv2 kernel derivative work restrictions.  Currently lawyers are fiercly arguing back and forth. 
+  
+  * [ZFS on Ubuntu](http://dtrace.org/blogs/ahl/2016/03/07/big-news-for-zfs-on-linux/ "ZFS Ubuntu")
+  * [Software Freedom Law Center - Ubuntu and CDDL](https://www.softwarefreedom.org/resources/2016/linux-kernel-cddl.html "CDDL")
+
+[Full Text CDDL 1.0](http://directory.fsf.org/wiki/License:CDDLv1.0 "CDDL") 
 
 ### Other OSI Approved Licenses
 
