@@ -13,7 +13,7 @@ At the conclusion of this lecture you will we comfortable in describing and anal
 
 ## Review of Open Source and Free Software
 
-  As one continues their journey in the Linux/Unix/BSD system administration world, you will no doubt encounter the issue of software licensing.  While there are many *"closed source"* and proprietary software licenses, we want to focus on __FOSS__ or sometimes written __FLOSS__--Free and Open Source Software or Free Libre Open Source Software. Free and Open Source are two sides to one coin.  They have commonly aligned *ethical core*, but differ in one important and irreconsilable goal:  Free software is a moral and societal issue for protecting the 4 essential freedoms of users.  Open Source software is a transparent development model that promotes its superior development model and ability to prevent vendor lock-in.  One is moral, one is a business proposition.
+  As one continues their journey in the Linux/Unix/BSD system administration world, you will no doubt encounter the issue of software licensing.  While there are many *"closed source"* and proprietary software licenses, we want to focus on __FOSS__ or sometimes written __FLOSS__--Free and Open Source Software or Free Libre Open Source Software. Free and Open Source are two sides to one coin.  They have commonly aligned *ethical core*, but differ in one important and irreconcilable goal:  Free software is a moral and societal issue for protecting the 4 essential freedoms of users.  Open Source software is a transparent development model that promotes its superior development model and ability to prevent vendor lock-in.  One is moral, one is a business proposition.
   
 ### Free Software and Licenses
 
