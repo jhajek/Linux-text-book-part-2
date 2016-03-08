@@ -172,7 +172,7 @@ Full Text: [https://opensource.org/licenses/BSD-3-Clause](https://opensource.org
 
 #### BSD 2-Clause "Simplified" or "FreeBSD" license
 
- The 2 clause BSD license simply removes clause number 3 from the BSD-3 clause license to further simplify licensing.  The main main difference is that BSD license code can be taken and made propriatery and be in complete compliance with the license.  BSD's focus is on sharing--not on rights of the users. 
+ The 2 clause BSD license simply removes clause number 3 from the BSD-3 clause license to further simplify licensing.  The main difference is that BSD license code can be taken and made propriatery and be in complete compliance with the license.  BSD's focus is on sharing--not on rights of the users. 
 
 <pre>
 Copyright (c) <YEAR>, <OWNER>
