@@ -183,9 +183,9 @@ Full Text: [https://opensource.org/licenses/BSD-3-Clause](https://opensource.org
 
 ![*Later we'll dress up like Big Oil thugs and jump Ralph Nader.*](images/Chapter-02/Comics/open_source.png "Open Source")[^6]
 
-![*One of the survivors, poking around in the ruins with the point of a spear, uncovers a singed photo of Richard Stallman. They stare in silence. "This" one of them finally says, "This is a man who BELIEVED in something."*](images/Chapter-02/Comics/operating_systems.png "HURD")[^7]
-
 ![*Life imitates art* http://blog.xkcd.com/2007/04/19/life-imitates-xkcd-part-ii-richard-stallman/](images/Chapter-02/People/stallman-katana.jpg "RMS Katana")
+
+![*One of the survivors, poking around in the ruins with the point of a spear, uncovers a singed photo of Richard Stallman. They stare in silence. "This" one of them finally says, "This is a man who BELIEVED in something."*](images/Chapter-02/Comics/operating_systems.png "HURD")[^7]
 
 ## Chapter Conclusion and Summary
 
