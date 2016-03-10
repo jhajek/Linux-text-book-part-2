@@ -163,7 +163,7 @@ The Debian distribution (pronounced *"dehb-ian"* officially but sometimes the st
 
 #### Devuan
 
-![*Devuan Linux*](images/Devuan-logo.png "Devuan")
+![*Devuan Linux*](images/Chapter-03/Distros/Devuan-logo.png "Devuan")
 
   [Devuan Linux Project](http://www.devuan.org "Devuan") (Pronounced *Dev-one*) is a fork of the entire Debian project - not just a Debian based distro.  This is a result of a "Debian Civil War" with half of the Debian developers leaving in the Debian project in the beginning of 2015 to begin this distribution from scratch.  It is a direct fork with fundamental changes to the core operating system.  Other distros change application look and feel but to change the core operating system is a monumental task.  The state of the OS is in late Alpha or early beta as of August 2015 with VM images available for download.  We will talk about this more in detail under the topic "Linux Civil War" later in this chapter. 
 
