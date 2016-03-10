@@ -208,6 +208,15 @@ Started in 1993
 
 #### OpenBSD
 
+   * Fork of NetBSD lead by Theo de Raadt end of 1995
+   * Founded by Theo de Raadt
+   * Theo was banned/left from NetBSD in 1994.
+   * He complained that they were developing too slow and not focusing on security.
+   * OpenSSH comes out of this project.
+     + [Microsoft recently became the first "gold sponsor" of the project](http://undeadly.org/cgi?action=article&sid=20150708134520)
+     + Recognizing the standard of SSH (secure shell) they are moving to port and integrate SSH nativly to Windows. 
+   * Project is focused on radical implementations of security and safe coding practices--leveraging itself as the most secure OS.
+
 Founder Theo De Raat
 •Focuses on security (radical focus on security) and replaced many common software available with higher security-less featured versions.
 •Many common projects come from openBSD
