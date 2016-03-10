@@ -84,9 +84,13 @@ The GPL license is not the only license in the FOSS arena.  In addition to GPL, 
 
 ![*Opensource Licenses*](images/Chapter-02/Licenses/640px-Software_licensing_spectrum.png "Licenses") [^3]
 
+Together with Bruce Perens they formed the OSI--[Opensource Initiative](https://www.opensource.org "OSI")
+
+![*OSI Logo*](images/Chapter-02/Licenses/osi_standard_logo-263x300.png "OSI")
+
 ### GPL
 
-The main license that governs both Free and Open Source software (FOSS) is the GPL [GNU General Public License](https://en.wikipedia.org/wiki/GNU_General_Public_License "GPL") this license created in 1989 by Richard Stallman.  This is a Free Software license that guaranteed the 4 software freedoms: [^2]
+The main license that governs both Free software (FOSS) is the GPL [GNU General Public License](https://en.wikipedia.org/wiki/GNU_General_Public_License "GPL") this license created in 1989 by Richard Stallman.  This is a Free Software license that guaranteed the 4 software freedoms: [^2]
 
  1)  The freedom to run the program as you wish, for any purpose (freedom 0).
  1)  The freedom to study how the program works, and change it so it does your computing as you wish (freedom 1). Access to the source code is a precondition for this.
@@ -118,6 +122,16 @@ Full Text: [http://directory.fsf.org/wiki/License:X11](http://directory.fsf.org/
 The main content of the MIT license is:
 
 > Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions: The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
+
+### ISC 
+
+  ISC (Internet Systems Consortium) opensource license is based on BSD licensing but is even more permissive--one step above public domain.  Outside of the copyright notices it is only 1 line of license.
+
+[ISC License (ISC)](https://opensource.org/licenses/ISC "ISC")
+
+>  Permission to use, copy, modify, and/or distribute this software for any purpose with or without fee is hereby granted, provided that the above copyright notice and this permission notice appear in all copies. 
+
+
 
 ### BSD-style
 
