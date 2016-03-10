@@ -1,5 +1,5 @@
 # Free and Open Source Licensing
-![*Certainly there's a phenomenon around open source. You know free software will be a vibrant area. There will be a lot of neat things that get done there. - Bill Gates*](images/Chapter-Header/chapter-02/abstraction.png "Understanding the Technology and Philosophy of Linux")[^4]
+![*Later we'll dress up like Big Oil thugs and jump Ralph Nader.*](images/Chapter-02/Comics/open_source.png "Open Source")
 
 __Chapter Objectives__
 
@@ -14,6 +14,8 @@ At the conclusion of this lecture you will we comfortable in describing and anal
 ## Review of Open Source and Free Software
 
   As one continues their journey in the Linux/Unix/BSD system administration world, you will no doubt encounter the issue of software licensing.  While there are many *"closed source"* and proprietary software licenses, we want to focus on __FOSS__ or sometimes written __FLOSS__--Free and Open Source Software or Free Libre Open Source Software. Free and Open Source are two sides to one coin.  They have commonly aligned *ethical core*, but differ in one important and irreconcilable goal:  Free software is a moral and societal issue for protecting the 4 essential freedoms of users.  Open Source software is a transparent development model that promotes its superior development model and ability to prevent vendor lock-in.  One is moral, one is a business proposition.
+  
+ *Certainly there's a phenomenon around open source. You know free software will be a vibrant area. There will be a lot of neat things that get done there. - Bill Gates* [^4]
   
 ### Free Software and Licenses
 
@@ -193,10 +195,9 @@ We learned:
 * We learned the 4 freedoms of Free Software
 * We learned about the FSF and the GPLv2 and v3
 * We learned about disagreements with the GPLv3 from Linus Torvalds
-* We learned about the term Open Source
+* We learned about the term Opensource
 * We learned about the OSI founders and the 9 rights of Open Source
 * We learned about other permissive and Open Source licenses
-* We learned about Creative Commons for documents and writing
 * We learned about the LGPL for licensing libraries to be included in non-GPL works
 
 ### Review Questions
