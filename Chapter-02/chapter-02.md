@@ -131,8 +131,10 @@ The main content of the MIT license is:
 
 >  Permission to use, copy, modify, and/or distribute this software for any purpose with or without fee is hereby granted, provided that the above copyright notice and this permission notice appear in all copies. 
 
+The ISC is responsible for maintaining critical internet infrastructure pieces.  They create an maintain the BIND9 DNS server that runs the majority of the internet backbone DNS (Root Servers).  They also created the ISC dhcp server (dhcpd) that is a very mature dhcp server widely deployed.  
 
-
+In addition to those two critical pieces of software the ISC license is the perfered license for software developed for the [OpenBSD](https://en.wikipedia.org/wiki/OpenBSD "OpenBSD") project and for the [Node.js npm](https://en.wikipedia.org/wiki/Node.js "npm") project.  It is a *free* software license and is compatible with the GPL.
+ 
 ### BSD-style
 
 #### BSD 3-Clause "New" or "Revised" license
