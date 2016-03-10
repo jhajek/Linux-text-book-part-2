@@ -63,7 +63,39 @@ At the conclusion of this lecture you will have an understanding of contemporary
 *  Release pegged to RHEL
 *  Originally Redhat fought them as a competitor taking money, but realized now that they should welcome CentOS in and just offer service contracts to their customers
 
+#### Scientific Linux
 
+* Same as CentOS 
+* Created as a collaboration between Fermi Lab and CERN
+* Scientific Linux offers wireless and Bluetooth out of the box
+* comes with a comprehensive range of software, such as multimedia codecs, Samba, and Compiz
+* Prepare for a common national laboratory environment
+
+#### Oracle Linux (Unbreakable Linux)
+
+* 2006 Oracle realized that their database software was being run on RHEL predominantly
+* Realized that they could just use the RHEL software (open source) and repackage it to run with Oracle products and Java
+* Then sell support to those potential ex-Redhat customers and even current Redhat customers
+* Added a new filesystem, Btrfs to Linux as a GPLv2 copy of ZFS--but not quite ready for production.
+
+### Debian based Family
+
+Three major branches of this family.  
+
+*  Debian 
+*  Ubuntu
+*  Devuan
+
+#### Debian
+
+* Initial release September of 1993
+* NOT a commercially back Linux - volunteer based
+* Oldest Linux project still in active development
+* Founder (Ian Murdock) recently passed away.
+* Introduced the "killer app" of early Linux - package management APT
+* Allowed for software to be easily installed through one central dependency manager/structure
+* Debian was founded on the open source "rights" guaranteeing these for it's community -- over commercial opportunities
+* Over 100+ Debian based derivative distros
 
 
 ## Chapter Conclusion and Summary
