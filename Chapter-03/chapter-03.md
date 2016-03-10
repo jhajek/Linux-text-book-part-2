@@ -216,34 +216,30 @@ Started in 1993
      + [Microsoft recently became the first "gold sponsor" of the project](http://undeadly.org/cgi?action=article&sid=20150708134520)
      + Recognizing the standard of SSH (secure shell) they are moving to port and integrate SSH nativly to Windows. 
    * Project is focused on radical implementations of security and safe coding practices--leveraging itself as the most secure OS.
-
-Founder Theo De Raat
-•Focuses on security (radical focus on security) and replaced many common software available with higher security-less featured versions.
-•Many common projects come from openBSD
--openSSH
--LibreSSL
-•Most open* projects are secure replacements for other popular software.
-
-LibreSSL, a free implementation of the Secure Sockets Layer (SSL) and Transport Layer Security (TLS) protocols, forked from the OpenSSL 1.0.1g branch with much old code and bugs fixed and removed.
-OpenBGPD, a free implementation of the Border Gateway Protocol 4 (BGP-4)
-OpenOSPFD, a free implementation of the Open Shortest Path First (OSPF) routing protocol
-OpenNTPD, a simple alternative to ntp.org's Network Time Protocol (NTP) daemon
-OpenSMTPD, a free Simple Mail Transfer Protocol (SMTP) daemon with IPv4/IPv6, PAM, Maildir and virtual domains support
-httpd, an HTTP server first included in the 5.6 release
-OpenSSH, a free implementation of the Secure Shell (SSH) protocol
-OpenIKED, a free implementation of the Internet Key Exchange (IKEv2) protocol
-Common Address Redundancy Protocol (CARP), a free alternative to Cisco's patented HSRP/VRRP server redundancy protocols
-PF, an IPv4/IPv6 stateful firewall with NAT, PAT, QoS and traffic normalization support
-pfsync, a firewall states synchronization protocol for PF firewall with High Availability support using CARP
-spamd, a spam filter with greylisting capability designed to inter-operate with the PF firewall
-sndio, a compact audio and MIDI framework
-cwm, a stacking window manager
+   * Most open* projects are secure replacements for other popular software.
+    + LibreSSL, a free implementation of the Secure Sockets Layer (SSL) and Transport Layer Security (TLS) protocols, forked from the OpenSSL 1.0.1g branch with much old code and bugs fixed and removed.
+    + OpenBGPD, a free implementation of the Border Gateway Protocol 4 (BGP-4)
+    + OpenOSPFD, a free implementation of the Open Shortest Path First (OSPF) routing protocol
+    + OpenNTPD, a simple alternative to ntp.org's Network Time Protocol (NTP) daemon
+    + OpenSMTPD, a free Simple Mail Transfer Protocol (SMTP) daemon with IPv4/IPv6, PAM, Maildir and virtual domains support
+    + httpd, an HTTP server first included in the 5.6 release
+    + OpenSSH, a free implementation of the Secure Shell (SSH) protocol
+    + OpenIKED, a free implementation of the Internet Key Exchange (IKEv2) protocol
+    + Common Address Redundancy Protocol (CARP), a free alternative to Cisco's patented HSRP/VRRP server redundancy protocols
+    + PF, an IPv4/IPv6 stateful firewall with NAT, PAT, QoS and traffic normalization support
+    + pfsync, a firewall states synchronization protocol for PF firewall with High Availability support using CARP
+    + spamd, a spam filter with greylisting capability designed to inter-operate with the PF firewall
+    + sndio, a compact audio and MIDI framework
+    + cwm, a stacking window manager
 
 #### DragonFly BSD
 
-Fork of FreeBSD by Matthew Dillon
-•Wanted to focus on SMP
-•Wanted to design distributed clustering filesystems (HAMMER FS)
+* [DragonFly BSD features](http://www.dragonflybsd.org/features/ "DragonFly")
+* Matthew Dillon was a FreeBSD kernel developer until 2003.
+* He wanted to focus on SMP and other kernel features but his views differed from the rest of FreeBSD developers.
+* Left in 2003 to start DragonFly BSD 
+* Wanted to design distributed clustering filesystems (HAMMER) HFS and HFS2.
+    + The most prominent one is HAMMER, our modern high performance filesystem with built-in mirroring and historic access functionality.
 
 #### GhostBSD
 
@@ -251,27 +247,24 @@ FreeBSD with a GUI using MATE desktop (maintained fork of GNOME 2)
 
 ### Sun/Oracle Solaris
 
-Commercial UNIX
-•SUN released Solaris OS -- June 1992
-•Innovated many technologies
--NFS
--ZFS
--DTRACE
--Zones
-
-•Bought by Oracle in 2010
-•Oracle put an end to OpenSolaris (which had been opensourced by Sun, but was now closed sourced by Oracle)
+* Commercial UNIX
+* SUN released Solaris OS -- June 1992
+* Innovated many technologies
+    + NFS
+    + ZFS
+    + DTRACE
+    + Zones
+* Bought by Oracle in 2010
+* Oracle put an end to OpenSolaris (which had been opensourced by Sun under the CDDL, but was "closed sourced" by Oracle)
 
 #### IllumOS
 
-OpenSolaris code migrated to a new foundation called IllumOS which continues to develop the common code base
-•Others download IllumOS and extend it and contribute back
+  OpenSolaris code was forked via their opensource license, CDDL, to a new foundation called IllumOS which continues to develop the common code base. Allthough IllumOS is a complete code base akin to a BSD distro, it functions more like Linux in the sense that their is no single IllumOS distribution.  Each group extends the IllumOS to create custom distors.
 
--OpenIndiana
--SmartOS from Joyent
--Most engineering talent that was fired from Oracle went to Joyent to continue in the Sun sprit.
-
-
+* OpenIndiana
+    + This is the pure continuation of OpenSolaris (under a different name ofcourse! OpenSolaris is trademark property of Oracle.)
+* SmartOS from Joyent
+    + Most engineering talent that was fired/left from Oracle went to Joyent to continue developing Operating systems technology in the Sun sprit.
 
 ## Chapter Conclusion and Summary
 
